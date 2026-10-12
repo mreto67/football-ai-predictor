@@ -7,13 +7,13 @@ class TeamAliasesTests(unittest.TestCase):
     def test_known_aliases_resolve_to_same_canonical_name(self):
         self.assertEqual(
             canonical_team_name("Man United"),
-            canonical_team_name("Manchester United"),
+            canonical_team_name("Manchester United FC"),
         )
 
     def test_alias_matching_ignores_case_and_outer_spaces(self):
         self.assertEqual(
             canonical_team_name("  MAN UNITED "),
-            canonical_team_name("Manchester United"),
+            canonical_team_name("Manchester United FC"),
         )
 
     def test_unknown_team_name_is_preserved_after_normalization(self):

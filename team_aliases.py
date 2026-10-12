@@ -2,8 +2,9 @@ from historical_importer import normalize_team_name
 
 
 TEAM_ALIASES = {
-    "man united": "manchester united",
-    "manchester united": "manchester united",
+    "man united": "manchester united fc",
+    "manchester united": "manchester united fc",
+    "manchester united fc": "manchester united fc",
 }
 
 
