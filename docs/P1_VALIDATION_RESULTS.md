@@ -48,3 +48,11 @@ Command: `python historical_importer.py --season 2024-25 --league both`
 - Team-name normalization is used for duplicate detection.
 - Matches with missing scores are excluded from eligible training records.
 - These results verify data fetching and auditing, not database ingestion or model accuracy.
+
+## Team alias and regression verification
+
+- Team aliases are now applied during duplicate-match detection.
+- Verified example: `Man United` and `Manchester United FC` on the same date against `Arsenal FC` resolve to one duplicate match.
+- Automated test suite: 20 tests passed on 2026-10-12.
+- Real 2024-25 dry-run: England 380 eligible records; Spain 370 eligible records, with 10 missing-score records excluded.
+- This verifies the implemented alias example and current test suite; it does not prove that every possible team alias or historical duplicate has been covered.
