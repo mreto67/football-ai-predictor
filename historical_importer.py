@@ -97,3 +97,68 @@ def dry_run(matches):
         "written": False,
         "report": report,
     }
+
+
+def main():
+    import argparse
+    import json
+    import urllib.request
+
+    parser = argparse.ArgumentParser(
+        description="Güvenli tarihsel futbol verisi denetimi (yalnızca dry-run)."
+    )
+    parser.add_argument(
+        "--season",
+        default="2024-25",
+        help="Sezon klasörü; varsayılan: 2024-25",
+    )
+    parser.add_argument(
+        "--league",
+        choices=["england", "spain", "both"],
+        default="both",
+        help="Denetlenecek lig",
+    )
+    args = parser.parse_args()
+
+    base = (
+        "https://raw.githubusercontent.com/openfootball/"
+        f"football.json/master/{args.season}/"
+    )
+    leagues = {
+        "england": ("İngiltere", "en.1.json"),
+        "spain": ("İspanya", "es.1.json"),
+    }
+    selected = (
+        leagues.items()
+        if args.league == "both"
+        else [(args.league, leagues[args.league])]
+    )
+
+    for _, (name, filename) in selected:
+        url = base + filename
+        request = urllib.request.Request(
+            url,
+            headers={"User-Agent": "FootballAI-DataAudit/1.0"},
+        )
+        print(f"\n--- {name} / {args.season} ---")
+        try:
+            with urllib.request.urlopen(request, timeout=25) as response:
+                data = json.load(response)
+
+            result = dry_run(data.get("matches", []))
+            report = result["report"]
+
+            print("Toplam maç:", report["total"])
+            print("Skorlu maç:", report["scored"])
+            print("Eksik skor:", report["missing_scores"])
+            print("Geçersiz skor:", report["invalid_scores"])
+            print("Geçersiz tarih:", report["invalid_dates"])
+            print("Tekrar:", report["duplicates"])
+            print("İşlenmeye uygun:", result["would_process"])
+            print("Veri yazıldı mı?:", result["written"])
+        except Exception as exc:
+            print("HATA:", type(exc).__name__, str(exc))
+
+
+if __name__ == "__main__":
+    main()

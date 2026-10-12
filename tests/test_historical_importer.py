@@ -95,5 +95,24 @@ class HistoricalImporterTests(unittest.TestCase):
         self.assertEqual(report["eligible"], 0)
 
 
+
+    def test_cli_rejects_invalid_league(self):
+        import subprocess
+        import sys
+
+        result = subprocess.run(
+            [
+                sys.executable,
+                "historical_importer.py",
+                "--league",
+                "turkey",
+            ],
+            capture_output=True,
+            text=True,
+            timeout=10,
+        )
+        self.assertEqual(result.returncode, 2)
+        self.assertIn("invalid choice", result.stderr)
+
 if __name__ == "__main__":
     unittest.main()
