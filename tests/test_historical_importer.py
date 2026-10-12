@@ -179,5 +179,34 @@ class HistoricalImporterTests(unittest.TestCase):
         self.assertEqual(report["duplicates"], 1)
         self.assertEqual(report["eligible"], 1)
 
+
+    def test_duplicate_with_surrounding_spaces_is_detected(self):
+        first = {
+            "date": "2024-08-16",
+            "team1": "Team A",
+            "team2": "Team B",
+            "score": {"ft": [2, 1]},
+        }
+        second = {
+            "date": "2024-08-16",
+            "team1": "  Team A  ",
+            "team2": " Team B ",
+            "score": {"ft": [2, 1]},
+        }
+        report = audit_matches([first, second])
+        self.assertEqual(report["duplicates"], 1)
+        self.assertEqual(report["eligible"], 1)
+
+    def test_team_names_are_not_modified_in_source_records(self):
+        match = {
+            "date": "2024-08-16",
+            "team1": "  Team A  ",
+            "team2": " Team B ",
+            "score": {"ft": [2, 1]},
+        }
+        original = dict(match)
+        audit_matches([match])
+        self.assertEqual(match, original)
+
 if __name__ == "__main__":
     unittest.main()
