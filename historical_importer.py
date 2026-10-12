@@ -1,6 +1,14 @@
 from datetime import date
 
 
+
+def normalize_team_name(name):
+    """Takım adını karşılaştırma için normalleştirir; kaynak veriyi değiştirmez."""
+    if not isinstance(name, str):
+        return ""
+    return " ".join(name.split()).casefold()
+
+
 def _score_value(match):
     score = match.get("score")
 

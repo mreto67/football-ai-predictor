@@ -1,6 +1,6 @@
 import unittest
 
-from historical_importer import audit_matches, dry_run
+from historical_importer import audit_matches, dry_run, normalize_team_name
 
 
 class HistoricalImporterTests(unittest.TestCase):
@@ -207,6 +207,15 @@ class HistoricalImporterTests(unittest.TestCase):
         original = dict(match)
         audit_matches([match])
         self.assertEqual(match, original)
+
+
+    def test_normalize_team_name(self):
+        self.assertEqual(normalize_team_name("  Team A  "), "team a")
+        self.assertEqual(normalize_team_name("TEAM A"), "team a")
+
+    def test_normalize_team_name_rejects_empty_value(self):
+        self.assertEqual(normalize_team_name("   "), "")
+        self.assertEqual(normalize_team_name(None), "")
 
 if __name__ == "__main__":
     unittest.main()
