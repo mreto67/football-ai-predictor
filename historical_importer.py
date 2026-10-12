@@ -43,6 +43,8 @@ def audit_matches(matches):
         "duplicates": 0,
         "eligible": 0,
     }
+    from team_aliases import canonical_team_name
+
     seen = set()
 
     for match in matches:
@@ -81,8 +83,8 @@ def audit_matches(matches):
 
         key = (
             match_date,
-            home.strip().casefold(),
-            away.strip().casefold(),
+            canonical_team_name(home),
+            canonical_team_name(away),
         )
 
         if key in seen:

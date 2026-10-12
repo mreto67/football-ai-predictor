@@ -217,5 +217,27 @@ class HistoricalImporterTests(unittest.TestCase):
         self.assertEqual(normalize_team_name("   "), "")
         self.assertEqual(normalize_team_name(None), "")
 
+    def test_duplicate_detected_using_team_aliases(self):
+        matches = [
+            {
+                "date": "2024-08-16",
+                "team1": "Man United",
+                "team2": "Arsenal FC",
+                "score": {"ft": [2, 1]},
+            },
+            {
+                "date": "2024-08-16",
+                "team1": "Manchester United FC",
+                "team2": "Arsenal FC",
+                "score": {"ft": [2, 1]},
+            },
+        ]
+
+        report = audit_matches(matches)
+        self.assertEqual(report["duplicates"], 1)
+        self.assertEqual(report["eligible"], 1)
+
+
+
 if __name__ == "__main__":
     unittest.main()
