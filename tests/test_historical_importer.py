@@ -114,5 +114,52 @@ class HistoricalImporterTests(unittest.TestCase):
         self.assertEqual(result.returncode, 2)
         self.assertIn("invalid choice", result.stderr)
 
+
+    def test_network_error_is_reported(self):
+        from unittest.mock import patch
+        import io
+        import contextlib
+        import urllib.error
+        from historical_importer import main
+
+        output = io.StringIO()
+        with patch(
+            "urllib.request.urlopen",
+            side_effect=urllib.error.URLError("offline"),
+        ):
+            with patch("sys.argv", ["historical_importer.py", "--league", "england"]):
+                with contextlib.redirect_stdout(output):
+                    main()
+
+        self.assertIn("HATA: URLError", output.getvalue())
+        self.assertIn("offline", output.getvalue())
+
+
+    def test_missing_season_file_is_reported(self):
+        from unittest.mock import patch
+        import io
+        import contextlib
+        import urllib.error
+        from historical_importer import main
+
+        output = io.StringIO()
+        error = urllib.error.HTTPError(
+            "https://example.com/missing.json",
+            404,
+            "Not Found",
+            {},
+            None,
+        )
+        with patch("urllib.request.urlopen", side_effect=error):
+            with patch(
+                "sys.argv",
+                ["historical_importer.py", "--league", "england"],
+            ):
+                with contextlib.redirect_stdout(output):
+                    main()
+
+        self.assertIn("HATA: HTTPError", output.getvalue())
+        self.assertIn("404", output.getvalue())
+
 if __name__ == "__main__":
     unittest.main()
