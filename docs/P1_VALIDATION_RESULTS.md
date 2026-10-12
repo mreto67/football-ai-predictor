@@ -34,3 +34,17 @@ England and Spain each have 380 records per season for the tested seasons 2015-1
 ## Next
 
 Design a repeatable, non-destructive historical importer with a dry-run mode and tests. Start with England and Spain; keep Türkiye optional until coverage is resolved.
+
+## Dry-run importer verification
+
+Command: `python historical_importer.py --season 2024-25 --league both`
+
+| League | Total | Scored | Missing scores | Invalid scores | Invalid dates | Duplicates | Eligible |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| England | 380 | 380 | 0 | 0 | 0 | 0 | 380 |
+| Spain | 380 | 370 | 10 | 0 | 0 | 0 | 370 |
+
+- Dry-run fetched and audited records without writing data.
+- Team-name normalization is used for duplicate detection.
+- Matches with missing scores are excluded from eligible training records.
+- These results verify data fetching and auditing, not database ingestion or model accuracy.
