@@ -1,0 +1,2569 @@
+{
+  "league": "england",
+  "season": "2026-27",
+  "retrieved_on": "2026-10-12",
+  "source": "openfootball",
+  "count": 320,
+  "fixtures": [
+    {
+      "league": "england",
+      "date": "2026-10-17",
+      "time": "12:30",
+      "home_team": "Everton FC",
+      "away_team": "Chelsea FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-10-17",
+      "time": "15:00",
+      "home_team": "Brentford FC",
+      "away_team": "Liverpool FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-10-17",
+      "time": "15:00",
+      "home_team": "Fulham FC",
+      "away_team": "Hull City AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-10-17",
+      "time": "15:00",
+      "home_team": "Manchester City FC",
+      "away_team": "Ipswich Town FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-10-17",
+      "time": "17:30",
+      "home_team": "Newcastle United FC",
+      "away_team": "Aston Villa FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-10-18",
+      "time": "14:00",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Sunderland AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-10-18",
+      "time": "14:00",
+      "home_team": "Brighton & Hove Albion FC",
+      "away_team": "Crystal Palace FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-10-18",
+      "time": "14:00",
+      "home_team": "Leeds United FC",
+      "away_team": "Manchester United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-10-18",
+      "time": "16:30",
+      "home_team": "Nottingham Forest FC",
+      "away_team": "Arsenal FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-10-19",
+      "time": "20:00",
+      "home_team": "Tottenham Hotspur FC",
+      "away_team": "Coventry City FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-10-23",
+      "time": "20:00",
+      "home_team": "Ipswich Town FC",
+      "away_team": "Nottingham Forest FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-10-24",
+      "time": "12:30",
+      "home_team": "Aston Villa FC",
+      "away_team": "Manchester City FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-10-24",
+      "time": "15:00",
+      "home_team": "Arsenal FC",
+      "away_team": "Everton FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-10-24",
+      "time": "15:00",
+      "home_team": "Coventry City FC",
+      "away_team": "Fulham FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-10-24",
+      "time": "17:30",
+      "home_team": "Chelsea FC",
+      "away_team": "Tottenham Hotspur FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-10-25",
+      "time": "14:00",
+      "home_team": "Crystal Palace FC",
+      "away_team": "Newcastle United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-10-25",
+      "time": "14:00",
+      "home_team": "Hull City AFC",
+      "away_team": "Brentford FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-10-25",
+      "time": "14:00",
+      "home_team": "Liverpool FC",
+      "away_team": "Brighton & Hove Albion FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-10-25",
+      "time": "14:00",
+      "home_team": "Manchester United FC",
+      "away_team": "AFC Bournemouth",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-10-25",
+      "time": "16:30",
+      "home_team": "Sunderland AFC",
+      "away_team": "Leeds United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-10-31",
+      "time": "12:30",
+      "home_team": "Chelsea FC",
+      "away_team": "Manchester United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-10-31",
+      "time": "15:00",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Leeds United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-10-31",
+      "time": "15:00",
+      "home_team": "Brentford FC",
+      "away_team": "Nottingham Forest FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-10-31",
+      "time": "15:00",
+      "home_team": "Coventry City FC",
+      "away_team": "Sunderland AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-10-31",
+      "time": "15:00",
+      "home_team": "Hull City AFC",
+      "away_team": "Ipswich Town FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-10-31",
+      "time": "15:00",
+      "home_team": "Manchester City FC",
+      "away_team": "Brighton & Hove Albion FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-10-31",
+      "time": "17:30",
+      "home_team": "Tottenham Hotspur FC",
+      "away_team": "Crystal Palace FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-10-31",
+      "time": "20:00",
+      "home_team": "Aston Villa FC",
+      "away_team": "Fulham FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-01",
+      "time": "16:30",
+      "home_team": "Liverpool FC",
+      "away_team": "Arsenal FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-02",
+      "time": "20:00",
+      "home_team": "Newcastle United FC",
+      "away_team": "Everton FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-07",
+      "time": "15:00",
+      "home_team": "Arsenal FC",
+      "away_team": "Hull City AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-07",
+      "time": "15:00",
+      "home_team": "Brighton & Hove Albion FC",
+      "away_team": "Brentford FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-07",
+      "time": "15:00",
+      "home_team": "Crystal Palace FC",
+      "away_team": "Liverpool FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-07",
+      "time": "15:00",
+      "home_team": "Everton FC",
+      "away_team": "Coventry City FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-07",
+      "time": "15:00",
+      "home_team": "Fulham FC",
+      "away_team": "Newcastle United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-07",
+      "time": "15:00",
+      "home_team": "Ipswich Town FC",
+      "away_team": "AFC Bournemouth",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-07",
+      "time": "15:00",
+      "home_team": "Leeds United FC",
+      "away_team": "Tottenham Hotspur FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-07",
+      "time": "15:00",
+      "home_team": "Manchester United FC",
+      "away_team": "Aston Villa FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-07",
+      "time": "15:00",
+      "home_team": "Nottingham Forest FC",
+      "away_team": "Manchester City FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-07",
+      "time": "15:00",
+      "home_team": "Sunderland AFC",
+      "away_team": "Chelsea FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-21",
+      "time": "15:00",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Nottingham Forest FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-21",
+      "time": "15:00",
+      "home_team": "Aston Villa FC",
+      "away_team": "Sunderland AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-21",
+      "time": "15:00",
+      "home_team": "Brentford FC",
+      "away_team": "Everton FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-21",
+      "time": "15:00",
+      "home_team": "Chelsea FC",
+      "away_team": "Leeds United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-21",
+      "time": "15:00",
+      "home_team": "Coventry City FC",
+      "away_team": "Crystal Palace FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-21",
+      "time": "15:00",
+      "home_team": "Hull City AFC",
+      "away_team": "Brighton & Hove Albion FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-21",
+      "time": "15:00",
+      "home_team": "Liverpool FC",
+      "away_team": "Manchester United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-21",
+      "time": "15:00",
+      "home_team": "Manchester City FC",
+      "away_team": "Fulham FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-21",
+      "time": "15:00",
+      "home_team": "Newcastle United FC",
+      "away_team": "Arsenal FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-21",
+      "time": "15:00",
+      "home_team": "Tottenham Hotspur FC",
+      "away_team": "Ipswich Town FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-28",
+      "time": "15:00",
+      "home_team": "Arsenal FC",
+      "away_team": "Manchester City FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-28",
+      "time": "15:00",
+      "home_team": "Brighton & Hove Albion FC",
+      "away_team": "Newcastle United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-28",
+      "time": "15:00",
+      "home_team": "Crystal Palace FC",
+      "away_team": "Hull City AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-28",
+      "time": "15:00",
+      "home_team": "Everton FC",
+      "away_team": "Liverpool FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-28",
+      "time": "15:00",
+      "home_team": "Fulham FC",
+      "away_team": "AFC Bournemouth",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-28",
+      "time": "15:00",
+      "home_team": "Ipswich Town FC",
+      "away_team": "Aston Villa FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-28",
+      "time": "15:00",
+      "home_team": "Leeds United FC",
+      "away_team": "Coventry City FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-28",
+      "time": "15:00",
+      "home_team": "Manchester United FC",
+      "away_team": "Brentford FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-28",
+      "time": "15:00",
+      "home_team": "Nottingham Forest FC",
+      "away_team": "Chelsea FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-11-28",
+      "time": "15:00",
+      "home_team": "Sunderland AFC",
+      "away_team": "Tottenham Hotspur FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-02",
+      "time": "20:00",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Brighton & Hove Albion FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-02",
+      "time": "20:00",
+      "home_team": "Aston Villa FC",
+      "away_team": "Everton FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-02",
+      "time": "20:00",
+      "home_team": "Brentford FC",
+      "away_team": "Arsenal FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-02",
+      "time": "20:00",
+      "home_team": "Chelsea FC",
+      "away_team": "Crystal Palace FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-02",
+      "time": "20:00",
+      "home_team": "Coventry City FC",
+      "away_team": "Ipswich Town FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-02",
+      "time": "20:00",
+      "home_team": "Hull City AFC",
+      "away_team": "Nottingham Forest FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-02",
+      "time": "20:00",
+      "home_team": "Liverpool FC",
+      "away_team": "Sunderland AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-02",
+      "time": "20:00",
+      "home_team": "Manchester City FC",
+      "away_team": "Leeds United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-02",
+      "time": "20:00",
+      "home_team": "Newcastle United FC",
+      "away_team": "Manchester United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-02",
+      "time": "20:00",
+      "home_team": "Tottenham Hotspur FC",
+      "away_team": "Fulham FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-05",
+      "time": "15:00",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Hull City AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-05",
+      "time": "15:00",
+      "home_team": "Aston Villa FC",
+      "away_team": "Crystal Palace FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-05",
+      "time": "15:00",
+      "home_team": "Brentford FC",
+      "away_team": "Manchester City FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-05",
+      "time": "15:00",
+      "home_team": "Chelsea FC",
+      "away_team": "Liverpool FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-05",
+      "time": "15:00",
+      "home_team": "Everton FC",
+      "away_team": "Fulham FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-05",
+      "time": "15:00",
+      "home_team": "Leeds United FC",
+      "away_team": "Ipswich Town FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-05",
+      "time": "15:00",
+      "home_team": "Manchester United FC",
+      "away_team": "Coventry City FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-05",
+      "time": "15:00",
+      "home_team": "Newcastle United FC",
+      "away_team": "Sunderland AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-05",
+      "time": "15:00",
+      "home_team": "Nottingham Forest FC",
+      "away_team": "Brighton & Hove Albion FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-05",
+      "time": "15:00",
+      "home_team": "Tottenham Hotspur FC",
+      "away_team": "Arsenal FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-12",
+      "time": "15:00",
+      "home_team": "Arsenal FC",
+      "away_team": "AFC Bournemouth",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-12",
+      "time": "15:00",
+      "home_team": "Brighton & Hove Albion FC",
+      "away_team": "Everton FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-12",
+      "time": "15:00",
+      "home_team": "Coventry City FC",
+      "away_team": "Aston Villa FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-12",
+      "time": "15:00",
+      "home_team": "Crystal Palace FC",
+      "away_team": "Manchester United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-12",
+      "time": "15:00",
+      "home_team": "Fulham FC",
+      "away_team": "Brentford FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-12",
+      "time": "15:00",
+      "home_team": "Hull City AFC",
+      "away_team": "Tottenham Hotspur FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-12",
+      "time": "15:00",
+      "home_team": "Ipswich Town FC",
+      "away_team": "Newcastle United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-12",
+      "time": "15:00",
+      "home_team": "Liverpool FC",
+      "away_team": "Leeds United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-12",
+      "time": "15:00",
+      "home_team": "Manchester City FC",
+      "away_team": "Chelsea FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-12",
+      "time": "15:00",
+      "home_team": "Sunderland AFC",
+      "away_team": "Nottingham Forest FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-19",
+      "time": "15:00",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Coventry City FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-19",
+      "time": "15:00",
+      "home_team": "Arsenal FC",
+      "away_team": "Manchester United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-19",
+      "time": "15:00",
+      "home_team": "Brentford FC",
+      "away_team": "Newcastle United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-19",
+      "time": "15:00",
+      "home_team": "Brighton & Hove Albion FC",
+      "away_team": "Ipswich Town FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-19",
+      "time": "15:00",
+      "home_team": "Chelsea FC",
+      "away_team": "Aston Villa FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-19",
+      "time": "15:00",
+      "home_team": "Leeds United FC",
+      "away_team": "Fulham FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-19",
+      "time": "15:00",
+      "home_team": "Liverpool FC",
+      "away_team": "Tottenham Hotspur FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-19",
+      "time": "15:00",
+      "home_team": "Manchester City FC",
+      "away_team": "Hull City AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-19",
+      "time": "15:00",
+      "home_team": "Nottingham Forest FC",
+      "away_team": "Everton FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-19",
+      "time": "15:00",
+      "home_team": "Sunderland AFC",
+      "away_team": "Crystal Palace FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-26",
+      "time": "12:30",
+      "home_team": "Aston Villa FC",
+      "away_team": "Leeds United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-26",
+      "time": "15:00",
+      "home_team": "Everton FC",
+      "away_team": "Sunderland AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-26",
+      "time": "15:00",
+      "home_team": "Fulham FC",
+      "away_team": "Brighton & Hove Albion FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-26",
+      "time": "15:00",
+      "home_team": "Ipswich Town FC",
+      "away_team": "Brentford FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-26",
+      "time": "15:00",
+      "home_team": "Tottenham Hotspur FC",
+      "away_team": "AFC Bournemouth",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-26",
+      "time": "17:30",
+      "home_team": "Hull City AFC",
+      "away_team": "Liverpool FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-26",
+      "time": "20:00",
+      "home_team": "Newcastle United FC",
+      "away_team": "Manchester City FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-27",
+      "time": "14:00",
+      "home_team": "Coventry City FC",
+      "away_team": "Chelsea FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-27",
+      "time": "16:30",
+      "home_team": "Manchester United FC",
+      "away_team": "Nottingham Forest FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-27",
+      "time": "19:00",
+      "home_team": "Crystal Palace FC",
+      "away_team": "Arsenal FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-29",
+      "time": "19:30",
+      "home_team": "Hull City AFC",
+      "away_team": "Leeds United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-29",
+      "time": "19:30",
+      "home_team": "Tottenham Hotspur FC",
+      "away_team": "Brighton & Hove Albion FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-29",
+      "time": "20:15",
+      "home_team": "Everton FC",
+      "away_team": "Manchester City FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-30",
+      "time": "19:30",
+      "home_team": "Coventry City FC",
+      "away_team": "Brentford FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-30",
+      "time": "19:30",
+      "home_team": "Crystal Palace FC",
+      "away_team": "AFC Bournemouth",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-30",
+      "time": "19:30",
+      "home_team": "Fulham FC",
+      "away_team": "Arsenal FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-30",
+      "time": "19:30",
+      "home_team": "Manchester United FC",
+      "away_team": "Sunderland AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-30",
+      "time": "19:30",
+      "home_team": "Newcastle United FC",
+      "away_team": "Nottingham Forest FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-30",
+      "time": "20:15",
+      "home_team": "Aston Villa FC",
+      "away_team": "Liverpool FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2026-12-30",
+      "time": "20:15",
+      "home_team": "Ipswich Town FC",
+      "away_team": "Chelsea FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-01",
+      "time": "20:00",
+      "home_team": "Leeds United FC",
+      "away_team": "Everton FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-02",
+      "time": "12:30",
+      "home_team": "Brighton & Hove Albion FC",
+      "away_team": "Manchester United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-02",
+      "time": "15:00",
+      "home_team": "Arsenal FC",
+      "away_team": "Ipswich Town FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-02",
+      "time": "15:00",
+      "home_team": "Brentford FC",
+      "away_team": "Crystal Palace FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-02",
+      "time": "15:00",
+      "home_team": "Liverpool FC",
+      "away_team": "Coventry City FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-02",
+      "time": "15:00",
+      "home_team": "Nottingham Forest FC",
+      "away_team": "Fulham FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-02",
+      "time": "15:00",
+      "home_team": "Sunderland AFC",
+      "away_team": "Hull City AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-02",
+      "time": "17:30",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Aston Villa FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-03",
+      "time": "14:00",
+      "home_team": "Chelsea FC",
+      "away_team": "Newcastle United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-03",
+      "time": "16:30",
+      "home_team": "Manchester City FC",
+      "away_team": "Tottenham Hotspur FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-05",
+      "time": "19:30",
+      "home_team": "Arsenal FC",
+      "away_team": "Brentford FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-05",
+      "time": "19:30",
+      "home_team": "Brighton & Hove Albion FC",
+      "away_team": "AFC Bournemouth",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-05",
+      "time": "19:30",
+      "home_team": "Everton FC",
+      "away_team": "Aston Villa FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-05",
+      "time": "19:30",
+      "home_team": "Nottingham Forest FC",
+      "away_team": "Hull City AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-05",
+      "time": "20:15",
+      "home_team": "Sunderland AFC",
+      "away_team": "Liverpool FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-06",
+      "time": "19:30",
+      "home_team": "Crystal Palace FC",
+      "away_team": "Chelsea FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-06",
+      "time": "19:30",
+      "home_team": "Fulham FC",
+      "away_team": "Tottenham Hotspur FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-06",
+      "time": "19:30",
+      "home_team": "Ipswich Town FC",
+      "away_team": "Coventry City FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-06",
+      "time": "20:15",
+      "home_team": "Leeds United FC",
+      "away_team": "Manchester City FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-07",
+      "time": "20:00",
+      "home_team": "Manchester United FC",
+      "away_team": "Newcastle United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-16",
+      "time": "15:00",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Ipswich Town FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-16",
+      "time": "15:00",
+      "home_team": "Aston Villa FC",
+      "away_team": "Manchester United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-16",
+      "time": "15:00",
+      "home_team": "Brentford FC",
+      "away_team": "Brighton & Hove Albion FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-16",
+      "time": "15:00",
+      "home_team": "Chelsea FC",
+      "away_team": "Sunderland AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-16",
+      "time": "15:00",
+      "home_team": "Coventry City FC",
+      "away_team": "Everton FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-16",
+      "time": "15:00",
+      "home_team": "Hull City AFC",
+      "away_team": "Arsenal FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-16",
+      "time": "15:00",
+      "home_team": "Liverpool FC",
+      "away_team": "Crystal Palace FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-16",
+      "time": "15:00",
+      "home_team": "Manchester City FC",
+      "away_team": "Nottingham Forest FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-16",
+      "time": "15:00",
+      "home_team": "Newcastle United FC",
+      "away_team": "Fulham FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-16",
+      "time": "15:00",
+      "home_team": "Tottenham Hotspur FC",
+      "away_team": "Leeds United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-23",
+      "time": "15:00",
+      "home_team": "Arsenal FC",
+      "away_team": "Newcastle United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-23",
+      "time": "15:00",
+      "home_team": "Brighton & Hove Albion FC",
+      "away_team": "Manchester City FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-23",
+      "time": "15:00",
+      "home_team": "Crystal Palace FC",
+      "away_team": "Tottenham Hotspur FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-23",
+      "time": "15:00",
+      "home_team": "Everton FC",
+      "away_team": "Brentford FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-23",
+      "time": "15:00",
+      "home_team": "Fulham FC",
+      "away_team": "Aston Villa FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-23",
+      "time": "15:00",
+      "home_team": "Ipswich Town FC",
+      "away_team": "Hull City AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-23",
+      "time": "15:00",
+      "home_team": "Leeds United FC",
+      "away_team": "Chelsea FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-23",
+      "time": "15:00",
+      "home_team": "Manchester United FC",
+      "away_team": "Liverpool FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-23",
+      "time": "15:00",
+      "home_team": "Nottingham Forest FC",
+      "away_team": "AFC Bournemouth",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-23",
+      "time": "15:00",
+      "home_team": "Sunderland AFC",
+      "away_team": "Coventry City FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-30",
+      "time": "15:00",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Fulham FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-30",
+      "time": "15:00",
+      "home_team": "Aston Villa FC",
+      "away_team": "Ipswich Town FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-30",
+      "time": "15:00",
+      "home_team": "Brentford FC",
+      "away_team": "Manchester United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-30",
+      "time": "15:00",
+      "home_team": "Chelsea FC",
+      "away_team": "Nottingham Forest FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-30",
+      "time": "15:00",
+      "home_team": "Coventry City FC",
+      "away_team": "Leeds United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-30",
+      "time": "15:00",
+      "home_team": "Hull City AFC",
+      "away_team": "Crystal Palace FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-30",
+      "time": "15:00",
+      "home_team": "Liverpool FC",
+      "away_team": "Everton FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-30",
+      "time": "15:00",
+      "home_team": "Manchester City FC",
+      "away_team": "Arsenal FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-30",
+      "time": "15:00",
+      "home_team": "Newcastle United FC",
+      "away_team": "Brighton & Hove Albion FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-01-30",
+      "time": "15:00",
+      "home_team": "Tottenham Hotspur FC",
+      "away_team": "Sunderland AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-06",
+      "time": "15:00",
+      "home_team": "Arsenal FC",
+      "away_team": "Liverpool FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-06",
+      "time": "15:00",
+      "home_team": "Brighton & Hove Albion FC",
+      "away_team": "Hull City AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-06",
+      "time": "15:00",
+      "home_team": "Crystal Palace FC",
+      "away_team": "Coventry City FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-06",
+      "time": "15:00",
+      "home_team": "Everton FC",
+      "away_team": "Newcastle United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-06",
+      "time": "15:00",
+      "home_team": "Fulham FC",
+      "away_team": "Manchester City FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-06",
+      "time": "15:00",
+      "home_team": "Ipswich Town FC",
+      "away_team": "Tottenham Hotspur FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-06",
+      "time": "15:00",
+      "home_team": "Leeds United FC",
+      "away_team": "AFC Bournemouth",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-06",
+      "time": "15:00",
+      "home_team": "Manchester United FC",
+      "away_team": "Chelsea FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-06",
+      "time": "15:00",
+      "home_team": "Nottingham Forest FC",
+      "away_team": "Brentford FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-06",
+      "time": "15:00",
+      "home_team": "Sunderland AFC",
+      "away_team": "Aston Villa FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-10",
+      "time": "20:00",
+      "home_team": "Aston Villa FC",
+      "away_team": "AFC Bournemouth",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-10",
+      "time": "20:00",
+      "home_team": "Coventry City FC",
+      "away_team": "Liverpool FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-10",
+      "time": "20:00",
+      "home_team": "Crystal Palace FC",
+      "away_team": "Brentford FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-10",
+      "time": "20:00",
+      "home_team": "Everton FC",
+      "away_team": "Leeds United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-10",
+      "time": "20:00",
+      "home_team": "Fulham FC",
+      "away_team": "Nottingham Forest FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-10",
+      "time": "20:00",
+      "home_team": "Hull City AFC",
+      "away_team": "Sunderland AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-10",
+      "time": "20:00",
+      "home_team": "Ipswich Town FC",
+      "away_team": "Arsenal FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-10",
+      "time": "20:00",
+      "home_team": "Manchester United FC",
+      "away_team": "Brighton & Hove Albion FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-10",
+      "time": "20:00",
+      "home_team": "Newcastle United FC",
+      "away_team": "Chelsea FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-10",
+      "time": "20:00",
+      "home_team": "Tottenham Hotspur FC",
+      "away_team": "Manchester City FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-20",
+      "time": "15:00",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Crystal Palace FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-20",
+      "time": "15:00",
+      "home_team": "Arsenal FC",
+      "away_team": "Fulham FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-20",
+      "time": "15:00",
+      "home_team": "Brentford FC",
+      "away_team": "Coventry City FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-20",
+      "time": "15:00",
+      "home_team": "Brighton & Hove Albion FC",
+      "away_team": "Tottenham Hotspur FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-20",
+      "time": "15:00",
+      "home_team": "Chelsea FC",
+      "away_team": "Ipswich Town FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-20",
+      "time": "15:00",
+      "home_team": "Leeds United FC",
+      "away_team": "Aston Villa FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-20",
+      "time": "15:00",
+      "home_team": "Liverpool FC",
+      "away_team": "Hull City AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-20",
+      "time": "15:00",
+      "home_team": "Manchester City FC",
+      "away_team": "Newcastle United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-20",
+      "time": "15:00",
+      "home_team": "Nottingham Forest FC",
+      "away_team": "Manchester United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-20",
+      "time": "15:00",
+      "home_team": "Sunderland AFC",
+      "away_team": "Everton FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-27",
+      "time": "15:00",
+      "home_team": "Aston Villa FC",
+      "away_team": "Chelsea FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-27",
+      "time": "15:00",
+      "home_team": "Coventry City FC",
+      "away_team": "AFC Bournemouth",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-27",
+      "time": "15:00",
+      "home_team": "Crystal Palace FC",
+      "away_team": "Sunderland AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-27",
+      "time": "15:00",
+      "home_team": "Everton FC",
+      "away_team": "Nottingham Forest FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-27",
+      "time": "15:00",
+      "home_team": "Fulham FC",
+      "away_team": "Leeds United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-27",
+      "time": "15:00",
+      "home_team": "Hull City AFC",
+      "away_team": "Manchester City FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-27",
+      "time": "15:00",
+      "home_team": "Ipswich Town FC",
+      "away_team": "Brighton & Hove Albion FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-27",
+      "time": "15:00",
+      "home_team": "Manchester United FC",
+      "away_team": "Arsenal FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-27",
+      "time": "15:00",
+      "home_team": "Newcastle United FC",
+      "away_team": "Brentford FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-02-27",
+      "time": "15:00",
+      "home_team": "Tottenham Hotspur FC",
+      "away_team": "Liverpool FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-03-03",
+      "time": "20:00",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Tottenham Hotspur FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-03-03",
+      "time": "20:00",
+      "home_team": "Arsenal FC",
+      "away_team": "Crystal Palace FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-03-03",
+      "time": "20:00",
+      "home_team": "Brentford FC",
+      "away_team": "Ipswich Town FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-03-03",
+      "time": "20:00",
+      "home_team": "Brighton & Hove Albion FC",
+      "away_team": "Fulham FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-03-03",
+      "time": "20:00",
+      "home_team": "Chelsea FC",
+      "away_team": "Coventry City FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-03-03",
+      "time": "20:00",
+      "home_team": "Leeds United FC",
+      "away_team": "Hull City AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-03-03",
+      "time": "20:00",
+      "home_team": "Liverpool FC",
+      "away_team": "Aston Villa FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-03-03",
+      "time": "20:00",
+      "home_team": "Manchester City FC",
+      "away_team": "Everton FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-03-03",
+      "time": "20:00",
+      "home_team": "Nottingham Forest FC",
+      "away_team": "Newcastle United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-03-03",
+      "time": "20:00",
+      "home_team": "Sunderland AFC",
+      "away_team": "Manchester United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-03-13",
+      "time": "15:00",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Newcastle United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-03-13",
+      "time": "15:00",
+      "home_team": "Aston Villa FC",
+      "away_team": "Hull City AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-03-13",
+      "time": "15:00",
+      "home_team": "Chelsea FC",
+      "away_team": "Arsenal FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-03-13",
+      "time": "15:00",
+      "home_team": "Coventry City FC",
+      "away_team": "Manchester City FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-03-13",
+      "time": "15:00",
+      "home_team": "Crystal Palace FC",
+      "away_team": "Fulham FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-03-13",
+      "time": "15:00",
+      "home_team": "Leeds United FC",
+      "away_team": "Brighton & Hove Albion FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-03-13",
+      "time": "15:00",
+      "home_team": "Liverpool FC",
+      "away_team": "Ipswich Town FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-03-13",
+      "time": "15:00",
+      "home_team": "Manchester United FC",
+      "away_team": "Everton FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-03-13",
+      "time": "15:00",
+      "home_team": "Sunderland AFC",
+      "away_team": "Brentford FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-03-13",
+      "time": "15:00",
+      "home_team": "Tottenham Hotspur FC",
+      "away_team": "Nottingham Forest FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-03-20",
+      "time": "15:00",
+      "home_team": "Arsenal FC",
+      "away_team": "Sunderland AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-03-20",
+      "time": "15:00",
+      "home_team": "Brentford FC",
+      "away_team": "AFC Bournemouth",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-03-20",
+      "time": "15:00",
+      "home_team": "Brighton & Hove Albion FC",
+      "away_team": "Coventry City FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-03-20",
+      "time": "15:00",
+      "home_team": "Everton FC",
+      "away_team": "Tottenham Hotspur FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-03-20",
+      "time": "15:00",
+      "home_team": "Fulham FC",
+      "away_team": "Liverpool FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-03-20",
+      "time": "15:00",
+      "home_team": "Hull City AFC",
+      "away_team": "Chelsea FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-03-20",
+      "time": "15:00",
+      "home_team": "Ipswich Town FC",
+      "away_team": "Crystal Palace FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-03-20",
+      "time": "15:00",
+      "home_team": "Manchester City FC",
+      "away_team": "Manchester United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-03-20",
+      "time": "15:00",
+      "home_team": "Newcastle United FC",
+      "away_team": "Leeds United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-03-20",
+      "time": "15:00",
+      "home_team": "Nottingham Forest FC",
+      "away_team": "Aston Villa FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-04-10",
+      "time": "15:00",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Manchester City FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-04-10",
+      "time": "15:00",
+      "home_team": "Aston Villa FC",
+      "away_team": "Brighton & Hove Albion FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-04-10",
+      "time": "15:00",
+      "home_team": "Chelsea FC",
+      "away_team": "Fulham FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-04-10",
+      "time": "15:00",
+      "home_team": "Coventry City FC",
+      "away_team": "Arsenal FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-04-10",
+      "time": "15:00",
+      "home_team": "Crystal Palace FC",
+      "away_team": "Everton FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-04-10",
+      "time": "15:00",
+      "home_team": "Leeds United FC",
+      "away_team": "Nottingham Forest FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-04-10",
+      "time": "15:00",
+      "home_team": "Liverpool FC",
+      "away_team": "Newcastle United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-04-10",
+      "time": "15:00",
+      "home_team": "Manchester United FC",
+      "away_team": "Hull City AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-04-10",
+      "time": "15:00",
+      "home_team": "Sunderland AFC",
+      "away_team": "Ipswich Town FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-04-10",
+      "time": "15:00",
+      "home_team": "Tottenham Hotspur FC",
+      "away_team": "Brentford FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-04-17",
+      "time": "15:00",
+      "home_team": "Arsenal FC",
+      "away_team": "Aston Villa FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-04-17",
+      "time": "15:00",
+      "home_team": "Brentford FC",
+      "away_team": "Leeds United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-04-17",
+      "time": "15:00",
+      "home_team": "Brighton & Hove Albion FC",
+      "away_team": "Chelsea FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-04-17",
+      "time": "15:00",
+      "home_team": "Everton FC",
+      "away_team": "AFC Bournemouth",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-04-17",
+      "time": "15:00",
+      "home_team": "Fulham FC",
+      "away_team": "Sunderland AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-04-17",
+      "time": "15:00",
+      "home_team": "Hull City AFC",
+      "away_team": "Coventry City FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-04-17",
+      "time": "15:00",
+      "home_team": "Ipswich Town FC",
+      "away_team": "Manchester United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-04-17",
+      "time": "15:00",
+      "home_team": "Manchester City FC",
+      "away_team": "Crystal Palace FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-04-17",
+      "time": "15:00",
+      "home_team": "Newcastle United FC",
+      "away_team": "Tottenham Hotspur FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-04-17",
+      "time": "15:00",
+      "home_team": "Nottingham Forest FC",
+      "away_team": "Liverpool FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-04-24",
+      "time": "15:00",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Arsenal FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-04-24",
+      "time": "15:00",
+      "home_team": "Aston Villa FC",
+      "away_team": "Coventry City FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-04-24",
+      "time": "15:00",
+      "home_team": "Brentford FC",
+      "away_team": "Fulham FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-04-24",
+      "time": "15:00",
+      "home_team": "Chelsea FC",
+      "away_team": "Manchester City FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-04-24",
+      "time": "15:00",
+      "home_team": "Everton FC",
+      "away_team": "Brighton & Hove Albion FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-04-24",
+      "time": "15:00",
+      "home_team": "Leeds United FC",
+      "away_team": "Liverpool FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-04-24",
+      "time": "15:00",
+      "home_team": "Manchester United FC",
+      "away_team": "Crystal Palace FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-04-24",
+      "time": "15:00",
+      "home_team": "Newcastle United FC",
+      "away_team": "Ipswich Town FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-04-24",
+      "time": "15:00",
+      "home_team": "Nottingham Forest FC",
+      "away_team": "Sunderland AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-04-24",
+      "time": "15:00",
+      "home_team": "Tottenham Hotspur FC",
+      "away_team": "Hull City AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-01",
+      "time": "15:00",
+      "home_team": "Arsenal FC",
+      "away_team": "Tottenham Hotspur FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-01",
+      "time": "15:00",
+      "home_team": "Brighton & Hove Albion FC",
+      "away_team": "Nottingham Forest FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-01",
+      "time": "15:00",
+      "home_team": "Coventry City FC",
+      "away_team": "Manchester United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-01",
+      "time": "15:00",
+      "home_team": "Crystal Palace FC",
+      "away_team": "Aston Villa FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-01",
+      "time": "15:00",
+      "home_team": "Fulham FC",
+      "away_team": "Everton FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-01",
+      "time": "15:00",
+      "home_team": "Hull City AFC",
+      "away_team": "AFC Bournemouth",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-01",
+      "time": "15:00",
+      "home_team": "Ipswich Town FC",
+      "away_team": "Leeds United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-01",
+      "time": "15:00",
+      "home_team": "Liverpool FC",
+      "away_team": "Chelsea FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-01",
+      "time": "15:00",
+      "home_team": "Manchester City FC",
+      "away_team": "Brentford FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-01",
+      "time": "15:00",
+      "home_team": "Sunderland AFC",
+      "away_team": "Newcastle United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-08",
+      "time": "15:00",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Manchester United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-08",
+      "time": "15:00",
+      "home_team": "Brentford FC",
+      "away_team": "Aston Villa FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-08",
+      "time": "15:00",
+      "home_team": "Brighton & Hove Albion FC",
+      "away_team": "Sunderland AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-08",
+      "time": "15:00",
+      "home_team": "Everton FC",
+      "away_team": "Hull City AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-08",
+      "time": "15:00",
+      "home_team": "Fulham FC",
+      "away_team": "Ipswich Town FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-08",
+      "time": "15:00",
+      "home_team": "Leeds United FC",
+      "away_team": "Arsenal FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-08",
+      "time": "15:00",
+      "home_team": "Manchester City FC",
+      "away_team": "Liverpool FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-08",
+      "time": "15:00",
+      "home_team": "Newcastle United FC",
+      "away_team": "Coventry City FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-08",
+      "time": "15:00",
+      "home_team": "Nottingham Forest FC",
+      "away_team": "Crystal Palace FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-08",
+      "time": "15:00",
+      "home_team": "Tottenham Hotspur FC",
+      "away_team": "Chelsea FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-15",
+      "time": "15:00",
+      "home_team": "Arsenal FC",
+      "away_team": "Nottingham Forest FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-15",
+      "time": "15:00",
+      "home_team": "Aston Villa FC",
+      "away_team": "Newcastle United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-15",
+      "time": "15:00",
+      "home_team": "Chelsea FC",
+      "away_team": "Everton FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-15",
+      "time": "15:00",
+      "home_team": "Coventry City FC",
+      "away_team": "Tottenham Hotspur FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-15",
+      "time": "15:00",
+      "home_team": "Crystal Palace FC",
+      "away_team": "Brighton & Hove Albion FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-15",
+      "time": "15:00",
+      "home_team": "Hull City AFC",
+      "away_team": "Fulham FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-15",
+      "time": "15:00",
+      "home_team": "Ipswich Town FC",
+      "away_team": "Manchester City FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-15",
+      "time": "15:00",
+      "home_team": "Liverpool FC",
+      "away_team": "Brentford FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-15",
+      "time": "15:00",
+      "home_team": "Manchester United FC",
+      "away_team": "Leeds United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-15",
+      "time": "15:00",
+      "home_team": "Sunderland AFC",
+      "away_team": "AFC Bournemouth",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-23",
+      "time": "15:00",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Chelsea FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-23",
+      "time": "15:00",
+      "home_team": "Brentford FC",
+      "away_team": "Hull City AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-23",
+      "time": "15:00",
+      "home_team": "Brighton & Hove Albion FC",
+      "away_team": "Liverpool FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-23",
+      "time": "15:00",
+      "home_team": "Everton FC",
+      "away_team": "Arsenal FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-23",
+      "time": "15:00",
+      "home_team": "Fulham FC",
+      "away_team": "Coventry City FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-23",
+      "time": "15:00",
+      "home_team": "Leeds United FC",
+      "away_team": "Sunderland AFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-23",
+      "time": "15:00",
+      "home_team": "Manchester City FC",
+      "away_team": "Aston Villa FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-23",
+      "time": "15:00",
+      "home_team": "Newcastle United FC",
+      "away_team": "Crystal Palace FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-23",
+      "time": "15:00",
+      "home_team": "Nottingham Forest FC",
+      "away_team": "Ipswich Town FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-23",
+      "time": "15:00",
+      "home_team": "Tottenham Hotspur FC",
+      "away_team": "Manchester United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-30",
+      "time": "16:00",
+      "home_team": "Arsenal FC",
+      "away_team": "Brighton & Hove Albion FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-30",
+      "time": "16:00",
+      "home_team": "Aston Villa FC",
+      "away_team": "Tottenham Hotspur FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-30",
+      "time": "16:00",
+      "home_team": "Chelsea FC",
+      "away_team": "Brentford FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-30",
+      "time": "16:00",
+      "home_team": "Coventry City FC",
+      "away_team": "Nottingham Forest FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-30",
+      "time": "16:00",
+      "home_team": "Crystal Palace FC",
+      "away_team": "Leeds United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-30",
+      "time": "16:00",
+      "home_team": "Hull City AFC",
+      "away_team": "Newcastle United FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-30",
+      "time": "16:00",
+      "home_team": "Ipswich Town FC",
+      "away_team": "Everton FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-30",
+      "time": "16:00",
+      "home_team": "Liverpool FC",
+      "away_team": "AFC Bournemouth",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-30",
+      "time": "16:00",
+      "home_team": "Manchester United FC",
+      "away_team": "Fulham FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "england",
+      "date": "2027-05-30",
+      "time": "16:00",
+      "home_team": "Sunderland AFC",
+      "away_team": "Manchester City FC",
+      "source": "openfootball"
+    }
+  ]
+}

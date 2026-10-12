@@ -1,0 +1,2569 @@
+{
+  "league": "italy",
+  "season": "2026-27",
+  "retrieved_on": "2026-10-12",
+  "source": "openfootball",
+  "count": 320,
+  "fixtures": [
+    {
+      "league": "italy",
+      "date": "2026-10-16",
+      "time": "20:45",
+      "home_team": "Frosinone Calcio",
+      "away_team": "US Sassuolo Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-17",
+      "time": "15:00",
+      "home_team": "Venezia FC",
+      "away_team": "SSC Napoli",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-17",
+      "time": "18:00",
+      "home_team": "Bologna FC 1909",
+      "away_team": "FC Internazionale Milano",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-17",
+      "time": "20:45",
+      "home_team": "AS Roma",
+      "away_team": "Genoa CFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-18",
+      "time": "12:30",
+      "home_team": "Udinese Calcio",
+      "away_team": "US Lecce",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-18",
+      "time": "15:00",
+      "home_team": "ACF Fiorentina",
+      "away_team": "Como 1907",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-18",
+      "time": "18:00",
+      "home_team": "AC Milan",
+      "away_team": "Atalanta BC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-18",
+      "time": "20:45",
+      "home_team": "Juventus FC",
+      "away_team": "SS Lazio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-19",
+      "time": "18:30",
+      "home_team": "AC Monza",
+      "away_team": "Cagliari Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-19",
+      "time": "20:45",
+      "home_team": "Parma Calcio 1913",
+      "away_team": "Torino FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-23",
+      "time": "20:45",
+      "home_team": "Torino FC",
+      "away_team": "AC Monza",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-24",
+      "time": "15:00",
+      "home_team": "Cagliari Calcio",
+      "away_team": "Bologna FC 1909",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-24",
+      "time": "15:00",
+      "home_team": "Como 1907",
+      "away_team": "US Sassuolo Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-24",
+      "time": "18:00",
+      "home_team": "SSC Napoli",
+      "away_team": "AS Roma",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-24",
+      "time": "20:45",
+      "home_team": "SS Lazio",
+      "away_team": "Parma Calcio 1913",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-25",
+      "time": "12:30",
+      "home_team": "FC Internazionale Milano",
+      "away_team": "ACF Fiorentina",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-25",
+      "time": "15:00",
+      "home_team": "Atalanta BC",
+      "away_team": "Frosinone Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-25",
+      "time": "15:00",
+      "home_team": "Genoa CFC",
+      "away_team": "Venezia FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-25",
+      "time": "18:00",
+      "home_team": "US Lecce",
+      "away_team": "Juventus FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-25",
+      "time": "20:45",
+      "home_team": "Udinese Calcio",
+      "away_team": "AC Milan",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-27",
+      "time": "18:30",
+      "home_team": "US Sassuolo Calcio",
+      "away_team": "SS Lazio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-27",
+      "time": "20:45",
+      "home_team": "AS Roma",
+      "away_team": "Cagliari Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-27",
+      "time": "20:45",
+      "home_team": "Torino FC",
+      "away_team": "Como 1907",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-28",
+      "time": "18:30",
+      "home_team": "AC Milan",
+      "away_team": "Bologna FC 1909",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-28",
+      "time": "18:30",
+      "home_team": "Parma Calcio 1913",
+      "away_team": "Udinese Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-28",
+      "time": "18:30",
+      "home_team": "Venezia FC",
+      "away_team": "FC Internazionale Milano",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-28",
+      "time": "20:45",
+      "home_team": "AC Monza",
+      "away_team": "SSC Napoli",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-28",
+      "time": "20:45",
+      "home_team": "Genoa CFC",
+      "away_team": "Juventus FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-29",
+      "time": "18:30",
+      "home_team": "Frosinone Calcio",
+      "away_team": "US Lecce",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-29",
+      "time": "20:45",
+      "home_team": "ACF Fiorentina",
+      "away_team": "Atalanta BC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-31",
+      "time": "15:00",
+      "home_team": "Bologna FC 1909",
+      "away_team": "AC Monza",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-31",
+      "time": "18:00",
+      "home_team": "Udinese Calcio",
+      "away_team": "AS Roma",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-10-31",
+      "time": "20:45",
+      "home_team": "AC Milan",
+      "away_team": "FC Internazionale Milano",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-01",
+      "time": "12:30",
+      "home_team": "Como 1907",
+      "away_team": "Venezia FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-01",
+      "time": "15:00",
+      "home_team": "Frosinone Calcio",
+      "away_team": "Torino FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-01",
+      "time": "15:00",
+      "home_team": "SS Lazio",
+      "away_team": "Cagliari Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-01",
+      "time": "18:00",
+      "home_team": "US Lecce",
+      "away_team": "Genoa CFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-01",
+      "time": "20:45",
+      "home_team": "Juventus FC",
+      "away_team": "SSC Napoli",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-02",
+      "time": "18:30",
+      "home_team": "US Sassuolo Calcio",
+      "away_team": "ACF Fiorentina",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-02",
+      "time": "20:45",
+      "home_team": "Atalanta BC",
+      "away_team": "Parma Calcio 1913",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-06",
+      "time": "20:45",
+      "home_team": "Venezia FC",
+      "away_team": "Udinese Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-07",
+      "time": "15:00",
+      "home_team": "Cagliari Calcio",
+      "away_team": "Frosinone Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-07",
+      "time": "15:00",
+      "home_team": "Torino FC",
+      "away_team": "US Lecce",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-07",
+      "time": "18:00",
+      "home_team": "Parma Calcio 1913",
+      "away_team": "Bologna FC 1909",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-07",
+      "time": "20:45",
+      "home_team": "AS Roma",
+      "away_team": "US Sassuolo Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-08",
+      "time": "12:30",
+      "home_team": "SSC Napoli",
+      "away_team": "SS Lazio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-08",
+      "time": "15:00",
+      "home_team": "AC Monza",
+      "away_team": "Atalanta BC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-08",
+      "time": "15:00",
+      "home_team": "Genoa CFC",
+      "away_team": "AC Milan",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-08",
+      "time": "18:00",
+      "home_team": "FC Internazionale Milano",
+      "away_team": "Como 1907",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-08",
+      "time": "20:45",
+      "home_team": "ACF Fiorentina",
+      "away_team": "Juventus FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-21",
+      "time": "15:00",
+      "home_team": "Como 1907",
+      "away_team": "Cagliari Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-21",
+      "time": "15:00",
+      "home_team": "SS Lazio",
+      "away_team": "US Lecce",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-21",
+      "time": "18:00",
+      "home_team": "Parma Calcio 1913",
+      "away_team": "AS Roma",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-21",
+      "time": "20:45",
+      "home_team": "SSC Napoli",
+      "away_team": "Torino FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-22",
+      "time": "12:30",
+      "home_team": "US Sassuolo Calcio",
+      "away_team": "Genoa CFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-22",
+      "time": "15:00",
+      "home_team": "AC Milan",
+      "away_team": "Frosinone Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-22",
+      "time": "18:00",
+      "home_team": "Bologna FC 1909",
+      "away_team": "Udinese Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-22",
+      "time": "20:45",
+      "home_team": "Atalanta BC",
+      "away_team": "FC Internazionale Milano",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-23",
+      "time": "18:30",
+      "home_team": "AC Monza",
+      "away_team": "ACF Fiorentina",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-23",
+      "time": "20:45",
+      "home_team": "Juventus FC",
+      "away_team": "Venezia FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-29",
+      "time": null,
+      "home_team": "AS Roma",
+      "away_team": "AC Monza",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-29",
+      "time": null,
+      "home_team": "Cagliari Calcio",
+      "away_team": "AC Milan",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-29",
+      "time": null,
+      "home_team": "Como 1907",
+      "away_team": "Juventus FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-29",
+      "time": null,
+      "home_team": "FC Internazionale Milano",
+      "away_team": "Genoa CFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-29",
+      "time": null,
+      "home_team": "Frosinone Calcio",
+      "away_team": "Parma Calcio 1913",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-29",
+      "time": null,
+      "home_team": "Torino FC",
+      "away_team": "SS Lazio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-29",
+      "time": null,
+      "home_team": "US Lecce",
+      "away_team": "Atalanta BC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-29",
+      "time": null,
+      "home_team": "US Sassuolo Calcio",
+      "away_team": "SSC Napoli",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-29",
+      "time": null,
+      "home_team": "Udinese Calcio",
+      "away_team": "ACF Fiorentina",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-11-29",
+      "time": null,
+      "home_team": "Venezia FC",
+      "away_team": "Bologna FC 1909",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-12-06",
+      "time": null,
+      "home_team": "AC Milan",
+      "away_team": "Parma Calcio 1913",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-12-06",
+      "time": null,
+      "home_team": "AC Monza",
+      "away_team": "Como 1907",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-12-06",
+      "time": null,
+      "home_team": "ACF Fiorentina",
+      "away_team": "Cagliari Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-12-06",
+      "time": null,
+      "home_team": "Bologna FC 1909",
+      "away_team": "AS Roma",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-12-06",
+      "time": null,
+      "home_team": "Frosinone Calcio",
+      "away_team": "FC Internazionale Milano",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-12-06",
+      "time": null,
+      "home_team": "Genoa CFC",
+      "away_team": "Torino FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-12-06",
+      "time": null,
+      "home_team": "Juventus FC",
+      "away_team": "Udinese Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-12-06",
+      "time": null,
+      "home_team": "SS Lazio",
+      "away_team": "Atalanta BC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-12-06",
+      "time": null,
+      "home_team": "SSC Napoli",
+      "away_team": "US Lecce",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-12-06",
+      "time": null,
+      "home_team": "Venezia FC",
+      "away_team": "US Sassuolo Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-12-13",
+      "time": null,
+      "home_team": "Atalanta BC",
+      "away_team": "Genoa CFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-12-13",
+      "time": null,
+      "home_team": "Cagliari Calcio",
+      "away_team": "Venezia FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-12-13",
+      "time": null,
+      "home_team": "Como 1907",
+      "away_team": "Bologna FC 1909",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-12-13",
+      "time": null,
+      "home_team": "FC Internazionale Milano",
+      "away_team": "Torino FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-12-13",
+      "time": null,
+      "home_team": "Juventus FC",
+      "away_team": "AC Monza",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-12-13",
+      "time": null,
+      "home_team": "Parma Calcio 1913",
+      "away_team": "ACF Fiorentina",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-12-13",
+      "time": null,
+      "home_team": "SS Lazio",
+      "away_team": "AS Roma",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-12-13",
+      "time": null,
+      "home_team": "SSC Napoli",
+      "away_team": "AC Milan",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-12-13",
+      "time": null,
+      "home_team": "US Lecce",
+      "away_team": "US Sassuolo Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-12-13",
+      "time": null,
+      "home_team": "Udinese Calcio",
+      "away_team": "Frosinone Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-12-20",
+      "time": null,
+      "home_team": "AC Milan",
+      "away_team": "Como 1907",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-12-20",
+      "time": null,
+      "home_team": "ACF Fiorentina",
+      "away_team": "Bologna FC 1909",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-12-20",
+      "time": null,
+      "home_team": "AS Roma",
+      "away_team": "Juventus FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-12-20",
+      "time": null,
+      "home_team": "Atalanta BC",
+      "away_team": "SSC Napoli",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-12-20",
+      "time": null,
+      "home_team": "Frosinone Calcio",
+      "away_team": "SS Lazio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-12-20",
+      "time": null,
+      "home_team": "Genoa CFC",
+      "away_team": "Udinese Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-12-20",
+      "time": null,
+      "home_team": "Torino FC",
+      "away_team": "Cagliari Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-12-20",
+      "time": null,
+      "home_team": "US Lecce",
+      "away_team": "FC Internazionale Milano",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-12-20",
+      "time": null,
+      "home_team": "US Sassuolo Calcio",
+      "away_team": "Parma Calcio 1913",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2026-12-20",
+      "time": null,
+      "home_team": "Venezia FC",
+      "away_team": "AC Monza",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-03",
+      "time": null,
+      "home_team": "AC Monza",
+      "away_team": "AC Milan",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-03",
+      "time": null,
+      "home_team": "ACF Fiorentina",
+      "away_team": "SS Lazio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-03",
+      "time": null,
+      "home_team": "AS Roma",
+      "away_team": "Frosinone Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-03",
+      "time": null,
+      "home_team": "Bologna FC 1909",
+      "away_team": "Juventus FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-03",
+      "time": null,
+      "home_team": "Cagliari Calcio",
+      "away_team": "Genoa CFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-03",
+      "time": null,
+      "home_team": "Como 1907",
+      "away_team": "US Lecce",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-03",
+      "time": null,
+      "home_team": "FC Internazionale Milano",
+      "away_team": "US Sassuolo Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-03",
+      "time": null,
+      "home_team": "Parma Calcio 1913",
+      "away_team": "SSC Napoli",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-03",
+      "time": null,
+      "home_team": "Torino FC",
+      "away_team": "Venezia FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-03",
+      "time": null,
+      "home_team": "Udinese Calcio",
+      "away_team": "Atalanta BC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-06",
+      "time": null,
+      "home_team": "AC Milan",
+      "away_team": "ACF Fiorentina",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-06",
+      "time": null,
+      "home_team": "Atalanta BC",
+      "away_team": "Como 1907",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-06",
+      "time": null,
+      "home_team": "Frosinone Calcio",
+      "away_team": "Bologna FC 1909",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-06",
+      "time": null,
+      "home_team": "Genoa CFC",
+      "away_team": "AC Monza",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-06",
+      "time": null,
+      "home_team": "Juventus FC",
+      "away_team": "Torino FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-06",
+      "time": null,
+      "home_team": "SS Lazio",
+      "away_team": "FC Internazionale Milano",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-06",
+      "time": null,
+      "home_team": "SSC Napoli",
+      "away_team": "Cagliari Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-06",
+      "time": null,
+      "home_team": "US Lecce",
+      "away_team": "Parma Calcio 1913",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-06",
+      "time": null,
+      "home_team": "US Sassuolo Calcio",
+      "away_team": "Udinese Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-06",
+      "time": null,
+      "home_team": "Venezia FC",
+      "away_team": "AS Roma",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-10",
+      "time": null,
+      "home_team": "AC Monza",
+      "away_team": "Frosinone Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-10",
+      "time": null,
+      "home_team": "ACF Fiorentina",
+      "away_team": "US Lecce",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-10",
+      "time": null,
+      "home_team": "AS Roma",
+      "away_team": "AC Milan",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-10",
+      "time": null,
+      "home_team": "Bologna FC 1909",
+      "away_team": "Genoa CFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-10",
+      "time": null,
+      "home_team": "Cagliari Calcio",
+      "away_team": "US Sassuolo Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-10",
+      "time": null,
+      "home_team": "Como 1907",
+      "away_team": "SS Lazio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-10",
+      "time": null,
+      "home_team": "FC Internazionale Milano",
+      "away_team": "Juventus FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-10",
+      "time": null,
+      "home_team": "Parma Calcio 1913",
+      "away_team": "Venezia FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-10",
+      "time": null,
+      "home_team": "Torino FC",
+      "away_team": "Atalanta BC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-10",
+      "time": null,
+      "home_team": "Udinese Calcio",
+      "away_team": "SSC Napoli",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-17",
+      "time": null,
+      "home_team": "AC Milan",
+      "away_team": "Torino FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-17",
+      "time": null,
+      "home_team": "Atalanta BC",
+      "away_team": "AS Roma",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-17",
+      "time": null,
+      "home_team": "Cagliari Calcio",
+      "away_team": "Como 1907",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-17",
+      "time": null,
+      "home_team": "Juventus FC",
+      "away_team": "Genoa CFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-17",
+      "time": null,
+      "home_team": "Parma Calcio 1913",
+      "away_team": "FC Internazionale Milano",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-17",
+      "time": null,
+      "home_team": "SS Lazio",
+      "away_team": "Bologna FC 1909",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-17",
+      "time": null,
+      "home_team": "SSC Napoli",
+      "away_team": "ACF Fiorentina",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-17",
+      "time": null,
+      "home_team": "US Lecce",
+      "away_team": "Udinese Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-17",
+      "time": null,
+      "home_team": "US Sassuolo Calcio",
+      "away_team": "AC Monza",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-17",
+      "time": null,
+      "home_team": "Venezia FC",
+      "away_team": "Frosinone Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-24",
+      "time": null,
+      "home_team": "AC Monza",
+      "away_team": "SS Lazio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-24",
+      "time": null,
+      "home_team": "ACF Fiorentina",
+      "away_team": "US Sassuolo Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-24",
+      "time": null,
+      "home_team": "AS Roma",
+      "away_team": "Udinese Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-24",
+      "time": null,
+      "home_team": "Bologna FC 1909",
+      "away_team": "Atalanta BC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-24",
+      "time": null,
+      "home_team": "Como 1907",
+      "away_team": "SSC Napoli",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-24",
+      "time": null,
+      "home_team": "FC Internazionale Milano",
+      "away_team": "Venezia FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-24",
+      "time": null,
+      "home_team": "Frosinone Calcio",
+      "away_team": "AC Milan",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-24",
+      "time": null,
+      "home_team": "Genoa CFC",
+      "away_team": "Parma Calcio 1913",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-24",
+      "time": null,
+      "home_team": "Juventus FC",
+      "away_team": "Cagliari Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-24",
+      "time": null,
+      "home_team": "US Lecce",
+      "away_team": "Torino FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-31",
+      "time": null,
+      "home_team": "AC Milan",
+      "away_team": "Juventus FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-31",
+      "time": null,
+      "home_team": "AC Monza",
+      "away_team": "AS Roma",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-31",
+      "time": null,
+      "home_team": "Atalanta BC",
+      "away_team": "ACF Fiorentina",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-31",
+      "time": null,
+      "home_team": "Cagliari Calcio",
+      "away_team": "Parma Calcio 1913",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-31",
+      "time": null,
+      "home_team": "Genoa CFC",
+      "away_team": "US Lecce",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-31",
+      "time": null,
+      "home_team": "SS Lazio",
+      "away_team": "Venezia FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-31",
+      "time": null,
+      "home_team": "SSC Napoli",
+      "away_team": "FC Internazionale Milano",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-31",
+      "time": null,
+      "home_team": "Torino FC",
+      "away_team": "Frosinone Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-31",
+      "time": null,
+      "home_team": "US Sassuolo Calcio",
+      "away_team": "Como 1907",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-01-31",
+      "time": null,
+      "home_team": "Udinese Calcio",
+      "away_team": "Bologna FC 1909",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-07",
+      "time": null,
+      "home_team": "ACF Fiorentina",
+      "away_team": "Udinese Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-07",
+      "time": null,
+      "home_team": "AS Roma",
+      "away_team": "Torino FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-07",
+      "time": null,
+      "home_team": "Atalanta BC",
+      "away_team": "SS Lazio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-07",
+      "time": null,
+      "home_team": "Bologna FC 1909",
+      "away_team": "AC Milan",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-07",
+      "time": null,
+      "home_team": "Como 1907",
+      "away_team": "AC Monza",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-07",
+      "time": null,
+      "home_team": "FC Internazionale Milano",
+      "away_team": "Cagliari Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-07",
+      "time": null,
+      "home_team": "Juventus FC",
+      "away_team": "US Sassuolo Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-07",
+      "time": null,
+      "home_team": "Parma Calcio 1913",
+      "away_team": "Frosinone Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-07",
+      "time": null,
+      "home_team": "US Lecce",
+      "away_team": "SSC Napoli",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-07",
+      "time": null,
+      "home_team": "Venezia FC",
+      "away_team": "Genoa CFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-14",
+      "time": null,
+      "home_team": "AC Monza",
+      "away_team": "US Lecce",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-14",
+      "time": null,
+      "home_team": "AS Roma",
+      "away_team": "Parma Calcio 1913",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-14",
+      "time": null,
+      "home_team": "Bologna FC 1909",
+      "away_team": "Como 1907",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-14",
+      "time": null,
+      "home_team": "Cagliari Calcio",
+      "away_team": "SS Lazio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-14",
+      "time": null,
+      "home_team": "FC Internazionale Milano",
+      "away_team": "AC Milan",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-14",
+      "time": null,
+      "home_team": "Frosinone Calcio",
+      "away_team": "ACF Fiorentina",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-14",
+      "time": null,
+      "home_team": "Genoa CFC",
+      "away_team": "Atalanta BC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-14",
+      "time": null,
+      "home_team": "SSC Napoli",
+      "away_team": "Juventus FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-14",
+      "time": null,
+      "home_team": "Torino FC",
+      "away_team": "US Sassuolo Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-14",
+      "time": null,
+      "home_team": "Udinese Calcio",
+      "away_team": "Venezia FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-21",
+      "time": null,
+      "home_team": "AC Milan",
+      "away_team": "Genoa CFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-21",
+      "time": null,
+      "home_team": "ACF Fiorentina",
+      "away_team": "FC Internazionale Milano",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-21",
+      "time": null,
+      "home_team": "Atalanta BC",
+      "away_team": "AC Monza",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-21",
+      "time": null,
+      "home_team": "Como 1907",
+      "away_team": "Torino FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-21",
+      "time": null,
+      "home_team": "Juventus FC",
+      "away_team": "Bologna FC 1909",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-21",
+      "time": null,
+      "home_team": "SS Lazio",
+      "away_team": "SSC Napoli",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-21",
+      "time": null,
+      "home_team": "US Lecce",
+      "away_team": "Frosinone Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-21",
+      "time": null,
+      "home_team": "US Sassuolo Calcio",
+      "away_team": "AS Roma",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-21",
+      "time": null,
+      "home_team": "Udinese Calcio",
+      "away_team": "Parma Calcio 1913",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-21",
+      "time": null,
+      "home_team": "Venezia FC",
+      "away_team": "Cagliari Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-28",
+      "time": null,
+      "home_team": "AC Monza",
+      "away_team": "Juventus FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-28",
+      "time": null,
+      "home_team": "AS Roma",
+      "away_team": "Venezia FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-28",
+      "time": null,
+      "home_team": "Bologna FC 1909",
+      "away_team": "US Lecce",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-28",
+      "time": null,
+      "home_team": "Cagliari Calcio",
+      "away_team": "Udinese Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-28",
+      "time": null,
+      "home_team": "Como 1907",
+      "away_team": "AC Milan",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-28",
+      "time": null,
+      "home_team": "FC Internazionale Milano",
+      "away_team": "Atalanta BC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-28",
+      "time": null,
+      "home_team": "Frosinone Calcio",
+      "away_team": "SSC Napoli",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-28",
+      "time": null,
+      "home_team": "Genoa CFC",
+      "away_team": "SS Lazio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-28",
+      "time": null,
+      "home_team": "Parma Calcio 1913",
+      "away_team": "US Sassuolo Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-02-28",
+      "time": null,
+      "home_team": "Torino FC",
+      "away_team": "ACF Fiorentina",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-03-07",
+      "time": null,
+      "home_team": "AC Milan",
+      "away_team": "Cagliari Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-03-07",
+      "time": null,
+      "home_team": "AC Monza",
+      "away_team": "Genoa CFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-03-07",
+      "time": null,
+      "home_team": "ACF Fiorentina",
+      "away_team": "Venezia FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-03-07",
+      "time": null,
+      "home_team": "Atalanta BC",
+      "away_team": "Torino FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-03-07",
+      "time": null,
+      "home_team": "Juventus FC",
+      "away_team": "AS Roma",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-03-07",
+      "time": null,
+      "home_team": "SS Lazio",
+      "away_team": "Frosinone Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-03-07",
+      "time": null,
+      "home_team": "SSC Napoli",
+      "away_team": "Parma Calcio 1913",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-03-07",
+      "time": null,
+      "home_team": "US Lecce",
+      "away_team": "Como 1907",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-03-07",
+      "time": null,
+      "home_team": "US Sassuolo Calcio",
+      "away_team": "Bologna FC 1909",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-03-07",
+      "time": null,
+      "home_team": "Udinese Calcio",
+      "away_team": "FC Internazionale Milano",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-03-14",
+      "time": null,
+      "home_team": "AC Milan",
+      "away_team": "US Sassuolo Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-03-14",
+      "time": null,
+      "home_team": "Bologna FC 1909",
+      "away_team": "SSC Napoli",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-03-14",
+      "time": null,
+      "home_team": "Cagliari Calcio",
+      "away_team": "ACF Fiorentina",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-03-14",
+      "time": null,
+      "home_team": "Como 1907",
+      "away_team": "Udinese Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-03-14",
+      "time": null,
+      "home_team": "Frosinone Calcio",
+      "away_team": "AC Monza",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-03-14",
+      "time": null,
+      "home_team": "Genoa CFC",
+      "away_team": "AS Roma",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-03-14",
+      "time": null,
+      "home_team": "Parma Calcio 1913",
+      "away_team": "US Lecce",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-03-14",
+      "time": null,
+      "home_team": "SS Lazio",
+      "away_team": "Juventus FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-03-14",
+      "time": null,
+      "home_team": "Torino FC",
+      "away_team": "FC Internazionale Milano",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-03-14",
+      "time": null,
+      "home_team": "Venezia FC",
+      "away_team": "Atalanta BC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-03-21",
+      "time": null,
+      "home_team": "AC Monza",
+      "away_team": "Bologna FC 1909",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-03-21",
+      "time": null,
+      "home_team": "ACF Fiorentina",
+      "away_team": "Genoa CFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-03-21",
+      "time": null,
+      "home_team": "AS Roma",
+      "away_team": "US Lecce",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-03-21",
+      "time": null,
+      "home_team": "Atalanta BC",
+      "away_team": "AC Milan",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-03-21",
+      "time": null,
+      "home_team": "FC Internazionale Milano",
+      "away_team": "Frosinone Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-03-21",
+      "time": null,
+      "home_team": "Juventus FC",
+      "away_team": "Como 1907",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-03-21",
+      "time": null,
+      "home_team": "Parma Calcio 1913",
+      "away_team": "SS Lazio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-03-21",
+      "time": null,
+      "home_team": "SSC Napoli",
+      "away_team": "Venezia FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-03-21",
+      "time": null,
+      "home_team": "US Sassuolo Calcio",
+      "away_team": "Cagliari Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-03-21",
+      "time": null,
+      "home_team": "Udinese Calcio",
+      "away_team": "Torino FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-04",
+      "time": null,
+      "home_team": "AC Milan",
+      "away_team": "AC Monza",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-04",
+      "time": null,
+      "home_team": "AS Roma",
+      "away_team": "Bologna FC 1909",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-04",
+      "time": null,
+      "home_team": "Cagliari Calcio",
+      "away_team": "SSC Napoli",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-04",
+      "time": null,
+      "home_team": "Como 1907",
+      "away_team": "ACF Fiorentina",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-04",
+      "time": null,
+      "home_team": "Frosinone Calcio",
+      "away_team": "Udinese Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-04",
+      "time": null,
+      "home_team": "Genoa CFC",
+      "away_team": "FC Internazionale Milano",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-04",
+      "time": null,
+      "home_team": "Torino FC",
+      "away_team": "Juventus FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-04",
+      "time": null,
+      "home_team": "US Lecce",
+      "away_team": "SS Lazio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-04",
+      "time": null,
+      "home_team": "US Sassuolo Calcio",
+      "away_team": "Atalanta BC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-04",
+      "time": null,
+      "home_team": "Venezia FC",
+      "away_team": "Parma Calcio 1913",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-11",
+      "time": null,
+      "home_team": "ACF Fiorentina",
+      "away_team": "AC Milan",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-11",
+      "time": null,
+      "home_team": "Bologna FC 1909",
+      "away_team": "Venezia FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-11",
+      "time": null,
+      "home_team": "Cagliari Calcio",
+      "away_team": "Atalanta BC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-11",
+      "time": null,
+      "home_team": "FC Internazionale Milano",
+      "away_team": "AS Roma",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-11",
+      "time": null,
+      "home_team": "Frosinone Calcio",
+      "away_team": "Genoa CFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-11",
+      "time": null,
+      "home_team": "Juventus FC",
+      "away_team": "US Lecce",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-11",
+      "time": null,
+      "home_team": "Parma Calcio 1913",
+      "away_team": "Como 1907",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-11",
+      "time": null,
+      "home_team": "SS Lazio",
+      "away_team": "Torino FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-11",
+      "time": null,
+      "home_team": "SSC Napoli",
+      "away_team": "US Sassuolo Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-11",
+      "time": null,
+      "home_team": "Udinese Calcio",
+      "away_team": "AC Monza",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-18",
+      "time": null,
+      "home_team": "AC Milan",
+      "away_team": "SSC Napoli",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-18",
+      "time": null,
+      "home_team": "AC Monza",
+      "away_team": "FC Internazionale Milano",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-18",
+      "time": null,
+      "home_team": "ACF Fiorentina",
+      "away_team": "Parma Calcio 1913",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-18",
+      "time": null,
+      "home_team": "AS Roma",
+      "away_team": "SS Lazio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-18",
+      "time": null,
+      "home_team": "Atalanta BC",
+      "away_team": "Udinese Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-18",
+      "time": null,
+      "home_team": "Bologna FC 1909",
+      "away_team": "Cagliari Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-18",
+      "time": null,
+      "home_team": "Como 1907",
+      "away_team": "Frosinone Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-18",
+      "time": null,
+      "home_team": "Torino FC",
+      "away_team": "Genoa CFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-18",
+      "time": null,
+      "home_team": "US Sassuolo Calcio",
+      "away_team": "US Lecce",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-18",
+      "time": null,
+      "home_team": "Venezia FC",
+      "away_team": "Juventus FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-25",
+      "time": null,
+      "home_team": "Cagliari Calcio",
+      "away_team": "AC Monza",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-25",
+      "time": null,
+      "home_team": "FC Internazionale Milano",
+      "away_team": "Bologna FC 1909",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-25",
+      "time": null,
+      "home_team": "Frosinone Calcio",
+      "away_team": "AS Roma",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-25",
+      "time": null,
+      "home_team": "Genoa CFC",
+      "away_team": "US Sassuolo Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-25",
+      "time": null,
+      "home_team": "Juventus FC",
+      "away_team": "ACF Fiorentina",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-25",
+      "time": null,
+      "home_team": "Parma Calcio 1913",
+      "away_team": "Atalanta BC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-25",
+      "time": null,
+      "home_team": "SS Lazio",
+      "away_team": "Como 1907",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-25",
+      "time": null,
+      "home_team": "SSC Napoli",
+      "away_team": "Udinese Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-25",
+      "time": null,
+      "home_team": "US Lecce",
+      "away_team": "AC Milan",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-04-25",
+      "time": null,
+      "home_team": "Venezia FC",
+      "away_team": "Torino FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-02",
+      "time": null,
+      "home_team": "AC Milan",
+      "away_team": "SS Lazio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-02",
+      "time": null,
+      "home_team": "AC Monza",
+      "away_team": "Venezia FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-02",
+      "time": null,
+      "home_team": "AS Roma",
+      "away_team": "SSC Napoli",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-02",
+      "time": null,
+      "home_team": "Atalanta BC",
+      "away_team": "Juventus FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-02",
+      "time": null,
+      "home_team": "Bologna FC 1909",
+      "away_team": "ACF Fiorentina",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-02",
+      "time": null,
+      "home_team": "Como 1907",
+      "away_team": "FC Internazionale Milano",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-02",
+      "time": null,
+      "home_team": "Torino FC",
+      "away_team": "Parma Calcio 1913",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-02",
+      "time": null,
+      "home_team": "US Lecce",
+      "away_team": "Cagliari Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-02",
+      "time": null,
+      "home_team": "US Sassuolo Calcio",
+      "away_team": "Frosinone Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-02",
+      "time": null,
+      "home_team": "Udinese Calcio",
+      "away_team": "Genoa CFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-09",
+      "time": null,
+      "home_team": "ACF Fiorentina",
+      "away_team": "AS Roma",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-09",
+      "time": null,
+      "home_team": "FC Internazionale Milano",
+      "away_team": "US Lecce",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-09",
+      "time": null,
+      "home_team": "Frosinone Calcio",
+      "away_team": "Atalanta BC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-09",
+      "time": null,
+      "home_team": "Genoa CFC",
+      "away_team": "Cagliari Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-09",
+      "time": null,
+      "home_team": "Parma Calcio 1913",
+      "away_team": "AC Milan",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-09",
+      "time": null,
+      "home_team": "SS Lazio",
+      "away_team": "US Sassuolo Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-09",
+      "time": null,
+      "home_team": "SSC Napoli",
+      "away_team": "AC Monza",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-09",
+      "time": null,
+      "home_team": "Torino FC",
+      "away_team": "Bologna FC 1909",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-09",
+      "time": null,
+      "home_team": "Udinese Calcio",
+      "away_team": "Juventus FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-09",
+      "time": null,
+      "home_team": "Venezia FC",
+      "away_team": "Como 1907",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-16",
+      "time": null,
+      "home_team": "AC Milan",
+      "away_team": "AS Roma",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-16",
+      "time": null,
+      "home_team": "AC Monza",
+      "away_team": "Parma Calcio 1913",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-16",
+      "time": null,
+      "home_team": "Bologna FC 1909",
+      "away_team": "Frosinone Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-16",
+      "time": null,
+      "home_team": "Cagliari Calcio",
+      "away_team": "Torino FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-16",
+      "time": null,
+      "home_team": "Como 1907",
+      "away_team": "Atalanta BC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-16",
+      "time": null,
+      "home_team": "Juventus FC",
+      "away_team": "FC Internazionale Milano",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-16",
+      "time": null,
+      "home_team": "SS Lazio",
+      "away_team": "Udinese Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-16",
+      "time": null,
+      "home_team": "SSC Napoli",
+      "away_team": "Genoa CFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-16",
+      "time": null,
+      "home_team": "US Lecce",
+      "away_team": "ACF Fiorentina",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-16",
+      "time": null,
+      "home_team": "US Sassuolo Calcio",
+      "away_team": "Venezia FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-23",
+      "time": null,
+      "home_team": "ACF Fiorentina",
+      "away_team": "AC Monza",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-23",
+      "time": null,
+      "home_team": "AS Roma",
+      "away_team": "Como 1907",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-23",
+      "time": null,
+      "home_team": "Atalanta BC",
+      "away_team": "US Lecce",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-23",
+      "time": null,
+      "home_team": "FC Internazionale Milano",
+      "away_team": "SS Lazio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-23",
+      "time": null,
+      "home_team": "Frosinone Calcio",
+      "away_team": "Cagliari Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-23",
+      "time": null,
+      "home_team": "Genoa CFC",
+      "away_team": "Bologna FC 1909",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-23",
+      "time": null,
+      "home_team": "Parma Calcio 1913",
+      "away_team": "Juventus FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-23",
+      "time": null,
+      "home_team": "Torino FC",
+      "away_team": "SSC Napoli",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-23",
+      "time": null,
+      "home_team": "Udinese Calcio",
+      "away_team": "US Sassuolo Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-23",
+      "time": null,
+      "home_team": "Venezia FC",
+      "away_team": "AC Milan",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-30",
+      "time": null,
+      "home_team": "AC Milan",
+      "away_team": "Udinese Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-30",
+      "time": null,
+      "home_team": "AC Monza",
+      "away_team": "Torino FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-30",
+      "time": null,
+      "home_team": "Bologna FC 1909",
+      "away_team": "Parma Calcio 1913",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-30",
+      "time": null,
+      "home_team": "Cagliari Calcio",
+      "away_team": "AS Roma",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-30",
+      "time": null,
+      "home_team": "Como 1907",
+      "away_team": "Genoa CFC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-30",
+      "time": null,
+      "home_team": "Juventus FC",
+      "away_team": "Frosinone Calcio",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-30",
+      "time": null,
+      "home_team": "SS Lazio",
+      "away_team": "ACF Fiorentina",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-30",
+      "time": null,
+      "home_team": "SSC Napoli",
+      "away_team": "Atalanta BC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-30",
+      "time": null,
+      "home_team": "US Lecce",
+      "away_team": "Venezia FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "italy",
+      "date": "2027-05-30",
+      "time": null,
+      "home_team": "US Sassuolo Calcio",
+      "away_team": "FC Internazionale Milano",
+      "source": "openfootball"
+    }
+  ]
+}

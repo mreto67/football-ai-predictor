@@ -1,0 +1,2417 @@
+{
+  "league": "spain",
+  "season": "2026-27",
+  "retrieved_on": "2026-10-12",
+  "source": "openfootball",
+  "count": 301,
+  "fixtures": [
+    {
+      "league": "spain",
+      "date": "2026-10-16",
+      "time": "21:00",
+      "home_team": "RC Deportivo La Coruña",
+      "away_team": "Levante UD",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-10-17",
+      "time": "14:00",
+      "home_team": "RCD Espanyol de Barcelona",
+      "away_team": "Club Atlético de Madrid",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-10-17",
+      "time": "16:15",
+      "home_team": "Villarreal CF",
+      "away_team": "Elche CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-10-17",
+      "time": "18:30",
+      "home_team": "Real Betis Balompié",
+      "away_team": "FC Barcelona",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-10-17",
+      "time": "21:00",
+      "home_team": "Valencia CF",
+      "away_team": "Athletic Club",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-10-18",
+      "time": "14:00",
+      "home_team": "CA Osasuna",
+      "away_team": "Real Racing Club de Santander",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-10-18",
+      "time": "16:15",
+      "home_team": "RC Celta de Vigo",
+      "away_team": "Deportivo Alavés",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-10-18",
+      "time": "18:30",
+      "home_team": "Málaga CF",
+      "away_team": "Real Sociedad de Fútbol",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-10-18",
+      "time": "21:00",
+      "home_team": "Real Madrid CF",
+      "away_team": "Sevilla FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-10-19",
+      "time": "21:00",
+      "home_team": "Getafe CF",
+      "away_team": "Rayo Vallecano de Madrid",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-10-21",
+      "time": "20:00",
+      "home_team": "Levante UD",
+      "away_team": "Athletic Club",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-10-25",
+      "time": null,
+      "home_team": "Athletic Club",
+      "away_team": "Getafe CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-10-25",
+      "time": null,
+      "home_team": "Club Atlético de Madrid",
+      "away_team": "RC Deportivo La Coruña",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-10-25",
+      "time": null,
+      "home_team": "Deportivo Alavés",
+      "away_team": "Málaga CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-10-25",
+      "time": null,
+      "home_team": "FC Barcelona",
+      "away_team": "Real Madrid CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-10-25",
+      "time": null,
+      "home_team": "RC Celta de Vigo",
+      "away_team": "Real Betis Balompié",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-10-25",
+      "time": null,
+      "home_team": "Rayo Vallecano de Madrid",
+      "away_team": "Elche CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-10-25",
+      "time": null,
+      "home_team": "Real Racing Club de Santander",
+      "away_team": "RCD Espanyol de Barcelona",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-10-25",
+      "time": null,
+      "home_team": "Real Sociedad de Fútbol",
+      "away_team": "Levante UD",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-10-25",
+      "time": null,
+      "home_team": "Sevilla FC",
+      "away_team": "CA Osasuna",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-10-25",
+      "time": null,
+      "home_team": "Valencia CF",
+      "away_team": "Villarreal CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-01",
+      "time": null,
+      "home_team": "Athletic Club",
+      "away_team": "Real Sociedad de Fútbol",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-01",
+      "time": null,
+      "home_team": "Elche CF",
+      "away_team": "Valencia CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-01",
+      "time": null,
+      "home_team": "FC Barcelona",
+      "away_team": "Deportivo Alavés",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-01",
+      "time": null,
+      "home_team": "Getafe CF",
+      "away_team": "Sevilla FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-01",
+      "time": null,
+      "home_team": "Levante UD",
+      "away_team": "Club Atlético de Madrid",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-01",
+      "time": null,
+      "home_team": "RC Deportivo La Coruña",
+      "away_team": "CA Osasuna",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-01",
+      "time": null,
+      "home_team": "Rayo Vallecano de Madrid",
+      "away_team": "RC Celta de Vigo",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-01",
+      "time": null,
+      "home_team": "Real Betis Balompié",
+      "away_team": "Málaga CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-01",
+      "time": null,
+      "home_team": "Real Racing Club de Santander",
+      "away_team": "Real Madrid CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-01",
+      "time": null,
+      "home_team": "Villarreal CF",
+      "away_team": "RCD Espanyol de Barcelona",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-08",
+      "time": null,
+      "home_team": "CA Osasuna",
+      "away_team": "Athletic Club",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-08",
+      "time": null,
+      "home_team": "Club Atlético de Madrid",
+      "away_team": "FC Barcelona",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-08",
+      "time": null,
+      "home_team": "Elche CF",
+      "away_team": "Real Betis Balompié",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-08",
+      "time": null,
+      "home_team": "Málaga CF",
+      "away_team": "Real Racing Club de Santander",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-08",
+      "time": null,
+      "home_team": "RC Celta de Vigo",
+      "away_team": "Levante UD",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-08",
+      "time": null,
+      "home_team": "RCD Espanyol de Barcelona",
+      "away_team": "RC Deportivo La Coruña",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-08",
+      "time": null,
+      "home_team": "Real Sociedad de Fútbol",
+      "away_team": "Rayo Vallecano de Madrid",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-08",
+      "time": null,
+      "home_team": "Sevilla FC",
+      "away_team": "Deportivo Alavés",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-08",
+      "time": null,
+      "home_team": "Valencia CF",
+      "away_team": "Real Madrid CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-08",
+      "time": null,
+      "home_team": "Villarreal CF",
+      "away_team": "Getafe CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-22",
+      "time": null,
+      "home_team": "Athletic Club",
+      "away_team": "RCD Espanyol de Barcelona",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-22",
+      "time": null,
+      "home_team": "CA Osasuna",
+      "away_team": "Málaga CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-22",
+      "time": null,
+      "home_team": "Deportivo Alavés",
+      "away_team": "RC Deportivo La Coruña",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-22",
+      "time": null,
+      "home_team": "FC Barcelona",
+      "away_team": "Villarreal CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-22",
+      "time": null,
+      "home_team": "Getafe CF",
+      "away_team": "Club Atlético de Madrid",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-22",
+      "time": null,
+      "home_team": "Levante UD",
+      "away_team": "Elche CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-22",
+      "time": null,
+      "home_team": "Rayo Vallecano de Madrid",
+      "away_team": "Valencia CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-22",
+      "time": null,
+      "home_team": "Real Madrid CF",
+      "away_team": "RC Celta de Vigo",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-22",
+      "time": null,
+      "home_team": "Real Racing Club de Santander",
+      "away_team": "Real Sociedad de Fútbol",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-22",
+      "time": null,
+      "home_team": "Sevilla FC",
+      "away_team": "Real Betis Balompié",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-29",
+      "time": null,
+      "home_team": "Elche CF",
+      "away_team": "Club Atlético de Madrid",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-29",
+      "time": null,
+      "home_team": "Levante UD",
+      "away_team": "Real Racing Club de Santander",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-29",
+      "time": null,
+      "home_team": "Málaga CF",
+      "away_team": "Athletic Club",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-29",
+      "time": null,
+      "home_team": "RC Celta de Vigo",
+      "away_team": "Villarreal CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-29",
+      "time": null,
+      "home_team": "RC Deportivo La Coruña",
+      "away_team": "FC Barcelona",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-29",
+      "time": null,
+      "home_team": "RCD Espanyol de Barcelona",
+      "away_team": "Getafe CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-29",
+      "time": null,
+      "home_team": "Real Betis Balompié",
+      "away_team": "Rayo Vallecano de Madrid",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-29",
+      "time": null,
+      "home_team": "Real Madrid CF",
+      "away_team": "Deportivo Alavés",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-29",
+      "time": null,
+      "home_team": "Real Sociedad de Fútbol",
+      "away_team": "Sevilla FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-11-29",
+      "time": null,
+      "home_team": "Valencia CF",
+      "away_team": "CA Osasuna",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-12-06",
+      "time": null,
+      "home_team": "Athletic Club",
+      "away_team": "Real Madrid CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-12-06",
+      "time": null,
+      "home_team": "CA Osasuna",
+      "away_team": "Elche CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-12-06",
+      "time": null,
+      "home_team": "Club Atlético de Madrid",
+      "away_team": "Real Betis Balompié",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-12-06",
+      "time": null,
+      "home_team": "Deportivo Alavés",
+      "away_team": "RCD Espanyol de Barcelona",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-12-06",
+      "time": null,
+      "home_team": "FC Barcelona",
+      "away_team": "RC Celta de Vigo",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-12-06",
+      "time": null,
+      "home_team": "Getafe CF",
+      "away_team": "Valencia CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-12-06",
+      "time": null,
+      "home_team": "Rayo Vallecano de Madrid",
+      "away_team": "Levante UD",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-12-06",
+      "time": null,
+      "home_team": "Real Racing Club de Santander",
+      "away_team": "RC Deportivo La Coruña",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-12-06",
+      "time": null,
+      "home_team": "Sevilla FC",
+      "away_team": "Málaga CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-12-06",
+      "time": null,
+      "home_team": "Villarreal CF",
+      "away_team": "Real Sociedad de Fútbol",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-12-13",
+      "time": null,
+      "home_team": "Club Atlético de Madrid",
+      "away_team": "Valencia CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-12-13",
+      "time": null,
+      "home_team": "Elche CF",
+      "away_team": "Sevilla FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-12-13",
+      "time": null,
+      "home_team": "Levante UD",
+      "away_team": "Deportivo Alavés",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-12-13",
+      "time": null,
+      "home_team": "Málaga CF",
+      "away_team": "FC Barcelona",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-12-13",
+      "time": null,
+      "home_team": "RC Deportivo La Coruña",
+      "away_team": "Athletic Club",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-12-13",
+      "time": null,
+      "home_team": "RCD Espanyol de Barcelona",
+      "away_team": "RC Celta de Vigo",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-12-13",
+      "time": null,
+      "home_team": "Real Betis Balompié",
+      "away_team": "Real Racing Club de Santander",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-12-13",
+      "time": null,
+      "home_team": "Real Madrid CF",
+      "away_team": "CA Osasuna",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-12-13",
+      "time": null,
+      "home_team": "Real Sociedad de Fútbol",
+      "away_team": "Getafe CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-12-13",
+      "time": null,
+      "home_team": "Villarreal CF",
+      "away_team": "Rayo Vallecano de Madrid",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-12-20",
+      "time": null,
+      "home_team": "Athletic Club",
+      "away_team": "Real Betis Balompié",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-12-20",
+      "time": null,
+      "home_team": "CA Osasuna",
+      "away_team": "Villarreal CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-12-20",
+      "time": null,
+      "home_team": "Deportivo Alavés",
+      "away_team": "Elche CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-12-20",
+      "time": null,
+      "home_team": "FC Barcelona",
+      "away_team": "Real Sociedad de Fútbol",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-12-20",
+      "time": null,
+      "home_team": "Getafe CF",
+      "away_team": "Levante UD",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-12-20",
+      "time": null,
+      "home_team": "RC Celta de Vigo",
+      "away_team": "Club Atlético de Madrid",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-12-20",
+      "time": null,
+      "home_team": "RC Deportivo La Coruña",
+      "away_team": "Real Madrid CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-12-20",
+      "time": null,
+      "home_team": "Rayo Vallecano de Madrid",
+      "away_team": "Málaga CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-12-20",
+      "time": null,
+      "home_team": "Sevilla FC",
+      "away_team": "Real Racing Club de Santander",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2026-12-20",
+      "time": null,
+      "home_team": "Valencia CF",
+      "away_team": "RCD Espanyol de Barcelona",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-03",
+      "time": null,
+      "home_team": "Levante UD",
+      "away_team": "Valencia CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-03",
+      "time": null,
+      "home_team": "Málaga CF",
+      "away_team": "Elche CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-03",
+      "time": null,
+      "home_team": "RC Celta de Vigo",
+      "away_team": "RC Deportivo La Coruña",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-03",
+      "time": null,
+      "home_team": "RCD Espanyol de Barcelona",
+      "away_team": "FC Barcelona",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-03",
+      "time": null,
+      "home_team": "Rayo Vallecano de Madrid",
+      "away_team": "Club Atlético de Madrid",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-03",
+      "time": null,
+      "home_team": "Real Betis Balompié",
+      "away_team": "Deportivo Alavés",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-03",
+      "time": null,
+      "home_team": "Real Madrid CF",
+      "away_team": "Getafe CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-03",
+      "time": null,
+      "home_team": "Real Racing Club de Santander",
+      "away_team": "Athletic Club",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-03",
+      "time": null,
+      "home_team": "Real Sociedad de Fútbol",
+      "away_team": "CA Osasuna",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-03",
+      "time": null,
+      "home_team": "Villarreal CF",
+      "away_team": "Sevilla FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-10",
+      "time": null,
+      "home_team": "Athletic Club",
+      "away_team": "Villarreal CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-10",
+      "time": null,
+      "home_team": "CA Osasuna",
+      "away_team": "FC Barcelona",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-10",
+      "time": null,
+      "home_team": "Club Atlético de Madrid",
+      "away_team": "Real Racing Club de Santander",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-10",
+      "time": null,
+      "home_team": "Deportivo Alavés",
+      "away_team": "Real Sociedad de Fútbol",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-10",
+      "time": null,
+      "home_team": "Elche CF",
+      "away_team": "Getafe CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-10",
+      "time": null,
+      "home_team": "RC Deportivo La Coruña",
+      "away_team": "Rayo Vallecano de Madrid",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-10",
+      "time": null,
+      "home_team": "RCD Espanyol de Barcelona",
+      "away_team": "Real Betis Balompié",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-10",
+      "time": null,
+      "home_team": "Real Madrid CF",
+      "away_team": "Levante UD",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-10",
+      "time": null,
+      "home_team": "Sevilla FC",
+      "away_team": "RC Celta de Vigo",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-10",
+      "time": null,
+      "home_team": "Valencia CF",
+      "away_team": "Málaga CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-17",
+      "time": null,
+      "home_team": "Club Atlético de Madrid",
+      "away_team": "Real Sociedad de Fútbol",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-17",
+      "time": null,
+      "home_team": "FC Barcelona",
+      "away_team": "Elche CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-17",
+      "time": null,
+      "home_team": "Getafe CF",
+      "away_team": "Athletic Club",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-17",
+      "time": null,
+      "home_team": "Levante UD",
+      "away_team": "RCD Espanyol de Barcelona",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-17",
+      "time": null,
+      "home_team": "Málaga CF",
+      "away_team": "Real Madrid CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-17",
+      "time": null,
+      "home_team": "RC Celta de Vigo",
+      "away_team": "Valencia CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-17",
+      "time": null,
+      "home_team": "Rayo Vallecano de Madrid",
+      "away_team": "Sevilla FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-17",
+      "time": null,
+      "home_team": "Real Betis Balompié",
+      "away_team": "RC Deportivo La Coruña",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-17",
+      "time": null,
+      "home_team": "Real Racing Club de Santander",
+      "away_team": "CA Osasuna",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-17",
+      "time": null,
+      "home_team": "Villarreal CF",
+      "away_team": "Deportivo Alavés",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-24",
+      "time": null,
+      "home_team": "Athletic Club",
+      "away_team": "Levante UD",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-24",
+      "time": null,
+      "home_team": "Deportivo Alavés",
+      "away_team": "FC Barcelona",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-24",
+      "time": null,
+      "home_team": "Elche CF",
+      "away_team": "Rayo Vallecano de Madrid",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-24",
+      "time": null,
+      "home_team": "Getafe CF",
+      "away_team": "CA Osasuna",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-24",
+      "time": null,
+      "home_team": "RC Deportivo La Coruña",
+      "away_team": "Club Atlético de Madrid",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-24",
+      "time": null,
+      "home_team": "RCD Espanyol de Barcelona",
+      "away_team": "Villarreal CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-24",
+      "time": null,
+      "home_team": "Real Madrid CF",
+      "away_team": "Real Betis Balompié",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-24",
+      "time": null,
+      "home_team": "Real Racing Club de Santander",
+      "away_team": "RC Celta de Vigo",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-24",
+      "time": null,
+      "home_team": "Real Sociedad de Fútbol",
+      "away_team": "Málaga CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-24",
+      "time": null,
+      "home_team": "Valencia CF",
+      "away_team": "Sevilla FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-31",
+      "time": null,
+      "home_team": "CA Osasuna",
+      "away_team": "RC Deportivo La Coruña",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-31",
+      "time": null,
+      "home_team": "Club Atlético de Madrid",
+      "away_team": "RCD Espanyol de Barcelona",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-31",
+      "time": null,
+      "home_team": "FC Barcelona",
+      "away_team": "Valencia CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-31",
+      "time": null,
+      "home_team": "Levante UD",
+      "away_team": "Real Sociedad de Fútbol",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-31",
+      "time": null,
+      "home_team": "Málaga CF",
+      "away_team": "Deportivo Alavés",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-31",
+      "time": null,
+      "home_team": "RC Celta de Vigo",
+      "away_team": "Getafe CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-31",
+      "time": null,
+      "home_team": "Rayo Vallecano de Madrid",
+      "away_team": "Real Madrid CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-31",
+      "time": null,
+      "home_team": "Real Betis Balompié",
+      "away_team": "Elche CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-31",
+      "time": null,
+      "home_team": "Sevilla FC",
+      "away_team": "Athletic Club",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-01-31",
+      "time": null,
+      "home_team": "Villarreal CF",
+      "away_team": "Real Racing Club de Santander",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-07",
+      "time": null,
+      "home_team": "Athletic Club",
+      "away_team": "CA Osasuna",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-07",
+      "time": null,
+      "home_team": "Deportivo Alavés",
+      "away_team": "RC Celta de Vigo",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-07",
+      "time": null,
+      "home_team": "Elche CF",
+      "away_team": "Levante UD",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-07",
+      "time": null,
+      "home_team": "FC Barcelona",
+      "away_team": "Club Atlético de Madrid",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-07",
+      "time": null,
+      "home_team": "Getafe CF",
+      "away_team": "Villarreal CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-07",
+      "time": null,
+      "home_team": "RC Deportivo La Coruña",
+      "away_team": "Málaga CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-07",
+      "time": null,
+      "home_team": "RCD Espanyol de Barcelona",
+      "away_team": "Rayo Vallecano de Madrid",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-07",
+      "time": null,
+      "home_team": "Real Betis Balompié",
+      "away_team": "Sevilla FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-07",
+      "time": null,
+      "home_team": "Real Sociedad de Fútbol",
+      "away_team": "Real Madrid CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-07",
+      "time": null,
+      "home_team": "Valencia CF",
+      "away_team": "Real Racing Club de Santander",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-14",
+      "time": null,
+      "home_team": "CA Osasuna",
+      "away_team": "Club Atlético de Madrid",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-14",
+      "time": null,
+      "home_team": "Elche CF",
+      "away_team": "RC Deportivo La Coruña",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-14",
+      "time": null,
+      "home_team": "Levante UD",
+      "away_team": "Málaga CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-14",
+      "time": null,
+      "home_team": "RC Celta de Vigo",
+      "away_team": "Rayo Vallecano de Madrid",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-14",
+      "time": null,
+      "home_team": "Real Madrid CF",
+      "away_team": "Athletic Club",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-14",
+      "time": null,
+      "home_team": "Real Racing Club de Santander",
+      "away_team": "Getafe CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-14",
+      "time": null,
+      "home_team": "Real Sociedad de Fútbol",
+      "away_team": "Real Betis Balompié",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-14",
+      "time": null,
+      "home_team": "Sevilla FC",
+      "away_team": "RCD Espanyol de Barcelona",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-14",
+      "time": null,
+      "home_team": "Valencia CF",
+      "away_team": "Deportivo Alavés",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-14",
+      "time": null,
+      "home_team": "Villarreal CF",
+      "away_team": "FC Barcelona",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-21",
+      "time": null,
+      "home_team": "Athletic Club",
+      "away_team": "RC Celta de Vigo",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-21",
+      "time": null,
+      "home_team": "Club Atlético de Madrid",
+      "away_team": "Elche CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-21",
+      "time": null,
+      "home_team": "Deportivo Alavés",
+      "away_team": "Real Racing Club de Santander",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-21",
+      "time": null,
+      "home_team": "FC Barcelona",
+      "away_team": "Levante UD",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-21",
+      "time": null,
+      "home_team": "Málaga CF",
+      "away_team": "Real Betis Balompié",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-21",
+      "time": null,
+      "home_team": "RC Deportivo La Coruña",
+      "away_team": "Real Sociedad de Fútbol",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-21",
+      "time": null,
+      "home_team": "RCD Espanyol de Barcelona",
+      "away_team": "CA Osasuna",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-21",
+      "time": null,
+      "home_team": "Rayo Vallecano de Madrid",
+      "away_team": "Getafe CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-21",
+      "time": null,
+      "home_team": "Sevilla FC",
+      "away_team": "Real Madrid CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-21",
+      "time": null,
+      "home_team": "Villarreal CF",
+      "away_team": "Valencia CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-28",
+      "time": null,
+      "home_team": "Athletic Club",
+      "away_team": "FC Barcelona",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-28",
+      "time": null,
+      "home_team": "CA Osasuna",
+      "away_team": "Sevilla FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-28",
+      "time": null,
+      "home_team": "Getafe CF",
+      "away_team": "Deportivo Alavés",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-28",
+      "time": null,
+      "home_team": "Levante UD",
+      "away_team": "RC Deportivo La Coruña",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-28",
+      "time": null,
+      "home_team": "Málaga CF",
+      "away_team": "Club Atlético de Madrid",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-28",
+      "time": null,
+      "home_team": "RC Celta de Vigo",
+      "away_team": "RCD Espanyol de Barcelona",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-28",
+      "time": null,
+      "home_team": "Real Betis Balompié",
+      "away_team": "Villarreal CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-28",
+      "time": null,
+      "home_team": "Real Madrid CF",
+      "away_team": "Valencia CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-28",
+      "time": null,
+      "home_team": "Real Racing Club de Santander",
+      "away_team": "Rayo Vallecano de Madrid",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-02-28",
+      "time": null,
+      "home_team": "Real Sociedad de Fútbol",
+      "away_team": "Elche CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-03-07",
+      "time": null,
+      "home_team": "Club Atlético de Madrid",
+      "away_team": "RC Celta de Vigo",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-03-07",
+      "time": null,
+      "home_team": "Deportivo Alavés",
+      "away_team": "Athletic Club",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-03-07",
+      "time": null,
+      "home_team": "Elche CF",
+      "away_team": "Málaga CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-03-07",
+      "time": null,
+      "home_team": "FC Barcelona",
+      "away_team": "Real Betis Balompié",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-03-07",
+      "time": null,
+      "home_team": "RC Deportivo La Coruña",
+      "away_team": "Getafe CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-03-07",
+      "time": null,
+      "home_team": "RCD Espanyol de Barcelona",
+      "away_team": "Real Racing Club de Santander",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-03-07",
+      "time": null,
+      "home_team": "Rayo Vallecano de Madrid",
+      "away_team": "CA Osasuna",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-03-07",
+      "time": null,
+      "home_team": "Sevilla FC",
+      "away_team": "Real Sociedad de Fútbol",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-03-07",
+      "time": null,
+      "home_team": "Valencia CF",
+      "away_team": "Levante UD",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-03-07",
+      "time": null,
+      "home_team": "Villarreal CF",
+      "away_team": "Real Madrid CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-03-14",
+      "time": null,
+      "home_team": "Athletic Club",
+      "away_team": "Valencia CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-03-14",
+      "time": null,
+      "home_team": "CA Osasuna",
+      "away_team": "RC Celta de Vigo",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-03-14",
+      "time": null,
+      "home_team": "Deportivo Alavés",
+      "away_team": "Sevilla FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-03-14",
+      "time": null,
+      "home_team": "Elche CF",
+      "away_team": "Villarreal CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-03-14",
+      "time": null,
+      "home_team": "FC Barcelona",
+      "away_team": "RC Deportivo La Coruña",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-03-14",
+      "time": null,
+      "home_team": "Getafe CF",
+      "away_team": "Real Sociedad de Fútbol",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-03-14",
+      "time": null,
+      "home_team": "Málaga CF",
+      "away_team": "Rayo Vallecano de Madrid",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-03-14",
+      "time": null,
+      "home_team": "Real Betis Balompié",
+      "away_team": "Levante UD",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-03-14",
+      "time": null,
+      "home_team": "Real Madrid CF",
+      "away_team": "RCD Espanyol de Barcelona",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-03-14",
+      "time": null,
+      "home_team": "Real Racing Club de Santander",
+      "away_team": "Club Atlético de Madrid",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-03-21",
+      "time": null,
+      "home_team": "Club Atlético de Madrid",
+      "away_team": "Getafe CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-03-21",
+      "time": null,
+      "home_team": "Levante UD",
+      "away_team": "CA Osasuna",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-03-21",
+      "time": null,
+      "home_team": "RC Celta de Vigo",
+      "away_team": "Real Madrid CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-03-21",
+      "time": null,
+      "home_team": "RCD Espanyol de Barcelona",
+      "away_team": "Athletic Club",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-03-21",
+      "time": null,
+      "home_team": "Rayo Vallecano de Madrid",
+      "away_team": "FC Barcelona",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-03-21",
+      "time": null,
+      "home_team": "Real Racing Club de Santander",
+      "away_team": "Real Betis Balompié",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-03-21",
+      "time": null,
+      "home_team": "Real Sociedad de Fútbol",
+      "away_team": "Deportivo Alavés",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-03-21",
+      "time": null,
+      "home_team": "Sevilla FC",
+      "away_team": "Elche CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-03-21",
+      "time": null,
+      "home_team": "Valencia CF",
+      "away_team": "RC Deportivo La Coruña",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-03-21",
+      "time": null,
+      "home_team": "Villarreal CF",
+      "away_team": "Málaga CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-04",
+      "time": null,
+      "home_team": "Athletic Club",
+      "away_team": "Real Racing Club de Santander",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-04",
+      "time": null,
+      "home_team": "Elche CF",
+      "away_team": "Deportivo Alavés",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-04",
+      "time": null,
+      "home_team": "FC Barcelona",
+      "away_team": "Sevilla FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-04",
+      "time": null,
+      "home_team": "Getafe CF",
+      "away_team": "RCD Espanyol de Barcelona",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-04",
+      "time": null,
+      "home_team": "Levante UD",
+      "away_team": "Rayo Vallecano de Madrid",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-04",
+      "time": null,
+      "home_team": "Málaga CF",
+      "away_team": "CA Osasuna",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-04",
+      "time": null,
+      "home_team": "RC Deportivo La Coruña",
+      "away_team": "Villarreal CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-04",
+      "time": null,
+      "home_team": "Real Betis Balompié",
+      "away_team": "RC Celta de Vigo",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-04",
+      "time": null,
+      "home_team": "Real Madrid CF",
+      "away_team": "Club Atlético de Madrid",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-04",
+      "time": null,
+      "home_team": "Real Sociedad de Fútbol",
+      "away_team": "Valencia CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-11",
+      "time": null,
+      "home_team": "CA Osasuna",
+      "away_team": "Real Madrid CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-11",
+      "time": null,
+      "home_team": "Club Atlético de Madrid",
+      "away_team": "Levante UD",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-11",
+      "time": null,
+      "home_team": "Deportivo Alavés",
+      "away_team": "Real Betis Balompié",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-11",
+      "time": null,
+      "home_team": "RC Celta de Vigo",
+      "away_team": "Elche CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-11",
+      "time": null,
+      "home_team": "RCD Espanyol de Barcelona",
+      "away_team": "Málaga CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-11",
+      "time": null,
+      "home_team": "Rayo Vallecano de Madrid",
+      "away_team": "Real Sociedad de Fútbol",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-11",
+      "time": null,
+      "home_team": "Real Racing Club de Santander",
+      "away_team": "FC Barcelona",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-11",
+      "time": null,
+      "home_team": "Sevilla FC",
+      "away_team": "RC Deportivo La Coruña",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-11",
+      "time": null,
+      "home_team": "Valencia CF",
+      "away_team": "Getafe CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-11",
+      "time": null,
+      "home_team": "Villarreal CF",
+      "away_team": "Athletic Club",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-18",
+      "time": null,
+      "home_team": "Club Atlético de Madrid",
+      "away_team": "Sevilla FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-18",
+      "time": null,
+      "home_team": "Deportivo Alavés",
+      "away_team": "Rayo Vallecano de Madrid",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-18",
+      "time": null,
+      "home_team": "Elche CF",
+      "away_team": "CA Osasuna",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-18",
+      "time": null,
+      "home_team": "FC Barcelona",
+      "away_team": "RCD Espanyol de Barcelona",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-18",
+      "time": null,
+      "home_team": "Getafe CF",
+      "away_team": "Real Madrid CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-18",
+      "time": null,
+      "home_team": "Levante UD",
+      "away_team": "Villarreal CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-18",
+      "time": null,
+      "home_team": "Málaga CF",
+      "away_team": "Valencia CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-18",
+      "time": null,
+      "home_team": "RC Deportivo La Coruña",
+      "away_team": "RC Celta de Vigo",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-18",
+      "time": null,
+      "home_team": "Real Betis Balompié",
+      "away_team": "Athletic Club",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-18",
+      "time": null,
+      "home_team": "Real Sociedad de Fútbol",
+      "away_team": "Real Racing Club de Santander",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-21",
+      "time": null,
+      "home_team": "Athletic Club",
+      "away_team": "RC Deportivo La Coruña",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-21",
+      "time": null,
+      "home_team": "CA Osasuna",
+      "away_team": "Deportivo Alavés",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-21",
+      "time": null,
+      "home_team": "Getafe CF",
+      "away_team": "Real Betis Balompié",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-21",
+      "time": null,
+      "home_team": "RC Celta de Vigo",
+      "away_team": "FC Barcelona",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-21",
+      "time": null,
+      "home_team": "RCD Espanyol de Barcelona",
+      "away_team": "Real Sociedad de Fútbol",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-21",
+      "time": null,
+      "home_team": "Real Madrid CF",
+      "away_team": "Elche CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-21",
+      "time": null,
+      "home_team": "Real Racing Club de Santander",
+      "away_team": "Málaga CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-21",
+      "time": null,
+      "home_team": "Sevilla FC",
+      "away_team": "Levante UD",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-21",
+      "time": null,
+      "home_team": "Valencia CF",
+      "away_team": "Rayo Vallecano de Madrid",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-04-21",
+      "time": null,
+      "home_team": "Villarreal CF",
+      "away_team": "Club Atlético de Madrid",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-02",
+      "time": null,
+      "home_team": "Club Atlético de Madrid",
+      "away_team": "Deportivo Alavés",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-02",
+      "time": null,
+      "home_team": "Elche CF",
+      "away_team": "RCD Espanyol de Barcelona",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-02",
+      "time": null,
+      "home_team": "FC Barcelona",
+      "away_team": "CA Osasuna",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-02",
+      "time": null,
+      "home_team": "Levante UD",
+      "away_team": "Real Madrid CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-02",
+      "time": null,
+      "home_team": "Málaga CF",
+      "away_team": "Getafe CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-02",
+      "time": null,
+      "home_team": "RC Celta de Vigo",
+      "away_team": "Sevilla FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-02",
+      "time": null,
+      "home_team": "RC Deportivo La Coruña",
+      "away_team": "Real Racing Club de Santander",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-02",
+      "time": null,
+      "home_team": "Rayo Vallecano de Madrid",
+      "away_team": "Villarreal CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-02",
+      "time": null,
+      "home_team": "Real Betis Balompié",
+      "away_team": "Valencia CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-02",
+      "time": null,
+      "home_team": "Real Sociedad de Fútbol",
+      "away_team": "Athletic Club",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-09",
+      "time": null,
+      "home_team": "Athletic Club",
+      "away_team": "Málaga CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-09",
+      "time": null,
+      "home_team": "CA Osasuna",
+      "away_team": "Real Sociedad de Fútbol",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-09",
+      "time": null,
+      "home_team": "Deportivo Alavés",
+      "away_team": "Levante UD",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-09",
+      "time": null,
+      "home_team": "Getafe CF",
+      "away_team": "Elche CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-09",
+      "time": null,
+      "home_team": "Rayo Vallecano de Madrid",
+      "away_team": "RC Deportivo La Coruña",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-09",
+      "time": null,
+      "home_team": "Real Betis Balompié",
+      "away_team": "RCD Espanyol de Barcelona",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-09",
+      "time": null,
+      "home_team": "Real Madrid CF",
+      "away_team": "FC Barcelona",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-09",
+      "time": null,
+      "home_team": "Real Racing Club de Santander",
+      "away_team": "Sevilla FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-09",
+      "time": null,
+      "home_team": "Valencia CF",
+      "away_team": "Club Atlético de Madrid",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-09",
+      "time": null,
+      "home_team": "Villarreal CF",
+      "away_team": "RC Celta de Vigo",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-16",
+      "time": null,
+      "home_team": "CA Osasuna",
+      "away_team": "Real Betis Balompié",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-16",
+      "time": null,
+      "home_team": "Club Atlético de Madrid",
+      "away_team": "Rayo Vallecano de Madrid",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-16",
+      "time": null,
+      "home_team": "Elche CF",
+      "away_team": "Athletic Club",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-16",
+      "time": null,
+      "home_team": "Levante UD",
+      "away_team": "Getafe CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-16",
+      "time": null,
+      "home_team": "Málaga CF",
+      "away_team": "RC Celta de Vigo",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-16",
+      "time": null,
+      "home_team": "RC Deportivo La Coruña",
+      "away_team": "Deportivo Alavés",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-16",
+      "time": null,
+      "home_team": "RCD Espanyol de Barcelona",
+      "away_team": "Valencia CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-16",
+      "time": null,
+      "home_team": "Real Madrid CF",
+      "away_team": "Real Racing Club de Santander",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-16",
+      "time": null,
+      "home_team": "Real Sociedad de Fútbol",
+      "away_team": "FC Barcelona",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-16",
+      "time": null,
+      "home_team": "Sevilla FC",
+      "away_team": "Villarreal CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-23",
+      "time": null,
+      "home_team": "Club Atlético de Madrid",
+      "away_team": "Athletic Club",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-23",
+      "time": null,
+      "home_team": "Deportivo Alavés",
+      "away_team": "Real Madrid CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-23",
+      "time": null,
+      "home_team": "FC Barcelona",
+      "away_team": "Málaga CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-23",
+      "time": null,
+      "home_team": "RC Celta de Vigo",
+      "away_team": "Real Sociedad de Fútbol",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-23",
+      "time": null,
+      "home_team": "RC Deportivo La Coruña",
+      "away_team": "RCD Espanyol de Barcelona",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-23",
+      "time": null,
+      "home_team": "Rayo Vallecano de Madrid",
+      "away_team": "Real Betis Balompié",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-23",
+      "time": null,
+      "home_team": "Real Racing Club de Santander",
+      "away_team": "Levante UD",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-23",
+      "time": null,
+      "home_team": "Sevilla FC",
+      "away_team": "Getafe CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-23",
+      "time": null,
+      "home_team": "Valencia CF",
+      "away_team": "Elche CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-23",
+      "time": null,
+      "home_team": "Villarreal CF",
+      "away_team": "CA Osasuna",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-30",
+      "time": null,
+      "home_team": "Athletic Club",
+      "away_team": "Rayo Vallecano de Madrid",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-30",
+      "time": null,
+      "home_team": "CA Osasuna",
+      "away_team": "Valencia CF",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-30",
+      "time": null,
+      "home_team": "Elche CF",
+      "away_team": "Real Racing Club de Santander",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-30",
+      "time": null,
+      "home_team": "Getafe CF",
+      "away_team": "FC Barcelona",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-30",
+      "time": null,
+      "home_team": "Levante UD",
+      "away_team": "RC Celta de Vigo",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-30",
+      "time": null,
+      "home_team": "Málaga CF",
+      "away_team": "Sevilla FC",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-30",
+      "time": null,
+      "home_team": "RCD Espanyol de Barcelona",
+      "away_team": "Deportivo Alavés",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-30",
+      "time": null,
+      "home_team": "Real Betis Balompié",
+      "away_team": "Club Atlético de Madrid",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-30",
+      "time": null,
+      "home_team": "Real Madrid CF",
+      "away_team": "RC Deportivo La Coruña",
+      "source": "openfootball"
+    },
+    {
+      "league": "spain",
+      "date": "2027-05-30",
+      "time": null,
+      "home_team": "Real Sociedad de Fútbol",
+      "away_team": "Villarreal CF",
+      "source": "openfootball"
+    }
+  ]
+}

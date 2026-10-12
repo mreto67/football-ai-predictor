@@ -3,3 +3,17 @@ __pycache__/
 tests/__pycache__/
 .env
 .venv/
+
+# Local backups and temporary files
+backups/
+*.bak
+*.tmp
+
+# Local Python environments
+.venv/
+venv/
+
+# Local secrets
+.env
+.env.*
+!.env.example

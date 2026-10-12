@@ -66,6 +66,13 @@ class MatchFeatureTests(unittest.TestCase):
         self.assertEqual(arsenal_match["home_matches_before"], 1)
         self.assertEqual(chelsea_match["home_matches_before"], 1)
 
+    def test_output_preserves_match_scores_and_outcome(self):
+        matches = [make_match("2024-08-01", "Arsenal", "Chelsea", 2, 1)]
+        row = build_match_features(matches)[0]
+        self.assertEqual(row["home_goals"], 2)
+        self.assertEqual(row["away_goals"], 1)
+        self.assertEqual(row["outcome"], "1")
+
     def test_input_matches_are_not_modified(self):
         matches = [
             make_match("2024-08-02", "Arsenal", "Chelsea", 2, 1),
@@ -80,3 +87,33 @@ class MatchFeatureTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+    def test_last_five_features_use_only_previous_matches(self):
+        matches = [
+            make_match("2024-08-01", "Arsenal", "Chelsea", 2, 1),
+            make_match("2024-08-02", "Arsenal", "Everton", 4, 0),
+            make_match("2024-08-03", "Arsenal", "Brighton", 1, 1),
+            make_match("2024-08-04", "Arsenal", "West Ham", 3, 2),
+            make_match("2024-08-05", "Arsenal", "Newcastle", 0, 1),
+            make_match("2024-08-06", "Arsenal", "Liverpool", 5, 0),
+        ]
+
+        rows = build_match_features(matches)
+        last = rows[-1]
+
+        self.assertIn("home_last5_goals_scored_avg", last)
+        self.assertIn("home_last5_goals_conceded_avg", last)
+        self.assertAlmostEqual(last["home_last5_goals_scored_avg"], 2.0)
+        self.assertAlmostEqual(last["home_last5_goals_conceded_avg"], 1.0)
+
+    def test_last_five_features_are_zero_without_history(self):
+        matches = [
+            make_match("2024-08-01", "Arsenal", "Chelsea", 2, 1),
+        ]
+
+        row = build_match_features(matches)[0]
+
+        self.assertEqual(row["home_last5_goals_scored_avg"], 0.0)
+        self.assertEqual(row["home_last5_goals_conceded_avg"], 0.0)
+        self.assertEqual(row["away_last5_goals_scored_avg"], 0.0)
+        self.assertEqual(row["away_last5_goals_conceded_avg"], 0.0)

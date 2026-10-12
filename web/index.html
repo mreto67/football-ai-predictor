@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#101827">
+<title>Football AI | Maç Tahminleri</title>
+<style>
+:root {
+  color-scheme: dark;
+  --bg:#0b1120; --panel:#141e30; --line:#29364c;
+  --text:#eef4ff; --muted:#99a9c0; --accent:#55e6a5;
+  --blue:#8cb7ff;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);
+  font:15px system-ui,-apple-system,sans-serif}
+header{padding:25px 18px 20px;
+  background:linear-gradient(145deg,#172b42,#101827);
+  border-bottom:1px solid var(--line)}
+.wrap{max-width:900px;margin:auto}
+.brand{font-size:12px;letter-spacing:2px;color:var(--accent);font-weight:800}
+h1{font-size:27px;margin:8px 0}
+.sub{color:var(--muted);font-size:13px;line-height:1.6}
+main{max-width:900px;margin:auto;padding:18px}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:9px;margin-bottom:18px}
+.stat,.filters,.match,.notice{background:var(--panel);border:1px solid var(--line);border-radius:14px}
+.stat{padding:13px 10px}
+.stat strong{display:block;font-size:22px;color:var(--accent)}
+.stat span{font-size:11px;color:var(--muted)}
+.filters{padding:13px;display:grid;gap:10px;margin-bottom:14px}
+input,select{width:100%;background:#0d1626;color:var(--text);
+  border:1px solid var(--line);border-radius:10px;padding:12px;font:inherit}
+.listhead{display:flex;justify-content:space-between;align-items:center;
+  gap:10px;margin:18px 0 10px}
+.listhead h2{font-size:16px;margin:0}
+#count{font-size:12px;color:var(--muted)}
+.match{padding:15px;margin-bottom:10px}
+.meta{display:flex;justify-content:space-between;gap:8px;
+  color:var(--muted);font-size:12px;margin-bottom:13px}
+.teams{display:grid;grid-template-columns:1fr auto 1fr;gap:9px;align-items:center}
+.team{font-weight:700;overflow-wrap:anywhere}
+.team:last-child{text-align:right}
+.score{font-size:23px;font-weight:850;white-space:nowrap}
+.tag{font-size:10px;color:var(--accent);border:1px solid #2d725a;
+  padding:4px 7px;border-radius:20px;white-space:nowrap}
+.probs{display:grid;grid-template-columns:repeat(3,1fr);gap:7px;margin-top:15px}
+.prob{background:#0d1626;border-radius:9px;padding:9px;text-align:center}
+.prob span{display:block;font-size:11px;color:var(--muted)}
+.prob strong{font-size:16px}
+.more{width:100%;margin-top:10px;padding:10px;border:1px solid var(--line);
+  border-radius:9px;background:#1a2940;color:var(--text);font:inherit}
+.details{display:none;margin-top:12px;padding-top:12px;border-top:1px solid var(--line)}
+.details.open{display:block}
+.detailgrid{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.detail{background:#0d1626;padding:11px;border-radius:9px}
+.detail span{display:block;color:var(--muted);font-size:11px;margin-bottom:4px}
+.notice{padding:12px;color:var(--muted);font-size:12px;line-height:1.6;margin:15px 0}
+.empty{padding:30px 10px;text-align:center;color:var(--muted)}
+footer{text-align:center;padding:25px;color:var(--muted);font-size:11px}
+@media(min-width:600px){
+ header{padding:32px 24px} main{padding:24px}
+ .filters{grid-template-columns:1fr 1fr}
+ .match{padding:18px}
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="brand">FOOTBALL AI</div>
+    <h1>Maç Tahmin Merkezi</h1>
+    <div class="sub">2026–27 sezonu · Beş büyük Avrupa ligi<br>
+    İstatistiksel tahminler, tek ekranda.</div>
+  </div>
+</header>
+<main>
+  <section class="stats">
+    <div class="stat"><strong id="total">—</strong><span>Toplam tahmin</span></div>
+    <div class="stat"><strong>5</strong><span>Lig</span></div>
+    <div class="stat"><strong>1X2</strong><span>Maç olasılıkları</span></div>
+  </section>
+
+  <section class="filters">
+    <select id="league" aria-label="Lig seç">
+      <option value="">Tüm ligler</option>
+      <option value="england">İngiltere · Premier League</option>
+      <option value="spain">İspanya · La Liga</option>
+      <option value="italy">İtalya · Serie A</option>
+      <option value="germany">Almanya · Bundesliga</option>
+      <option value="france">Fransa · Ligue 1</option>
+    </select>
+    <input id="search" placeholder="Takım ara..." aria-label="Takım ara">
+    <input id="date" type="date" aria-label="Tarihe göre filtrele">
+    <select id="sort" aria-label="Sıralama">
+      <option value="date">Tarihe göre sırala</option>
+      <option value="home">Ev sahibi takım A–Z</option>
+      <option value="away">Deplasman takımı A–Z</option>
+    </select>
+  </section>
+
+  <div class="listhead">
+    <h2>Fikstür ve tahminler</h2>
+    <span id="count">Yükleniyor…</span>
+  </div>
+  <div id="matches"><div class="empty">Tahmin kataloğu yükleniyor…</div></div>
+
+  <div class="notice">
+    <strong>Veri notu:</strong> Tahminler 2024–25 sezonu takım ortalamalarına
+    dayanır. Geçmiş verisi eksik takımlarda lig ortalaması kullanılmış olabilir.
+    Olasılıklar tahmindir; maç sonucunu garanti etmez.
+  </div>
+</main>
+<footer>Football AI · Yerel tahmin kataloğu · 2026–27</footer>
+<script>
+const $ = id => document.getElementById(id);
+const leagueNames = {
+  england:"İngiltere", spain:"İspanya", italy:"İtalya",
+  germany:"Almanya", france:"Fransa"
+};
+let allMatches = [];
+
+function pct(value) {
+  return Number.isFinite(Number(value))
+    ? (Number(value) * 100).toLocaleString("tr-TR",{maximumFractionDigits:1}) + "%"
+    : "—";
+}
+function safe(value) {
+  return String(value ?? "").replace(/[&<>"']/g, c => ({
+    "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"
+  }[c]));
+}
+function render() {
+  const league = $("league").value;
+  const query = $("search").value.trim().toLocaleLowerCase("tr-TR");
+  const date = $("date").value;
+  const sort = $("sort").value;
+
+  let rows = allMatches.filter(m =>
+    (!league || m.league === league) &&
+    (!date || m.date === date) &&
+    (!query || (m.home_team + " " + m.away_team)
+      .toLocaleLowerCase("tr-TR").includes(query))
+  );
+  rows.sort((a,b) => {
+    if (sort === "home") return a.home_team.localeCompare(b.home_team);
+    if (sort === "away") return a.away_team.localeCompare(b.away_team);
+    return String(a.date).localeCompare(String(b.date));
+  });
+
+  $("count").textContent = rows.length + " maç";
+  if (!rows.length) {
+    $("matches").innerHTML = '<div class="empty">Bu filtrelerle maç bulunamadı.</div>';
+    return;
+  }
+
+  $("matches").innerHTML = rows.map((m,i) => {
+    const p = m.outcome_probabilities || {};
+    const id = "detail-" + i;
+    return `<article class="match">
+      <div class="meta">
+        <span>${safe(leagueNames[m.league] || m.league)} · ${safe(m.date)}</span>
+        <span class="tag">${safe(m.history_status === "historical_team_data_available"
+          ? "Geçmiş veri mevcut" : "Lig ortalaması kullanılıyor")}</span>
+      </div>
+      <div class="teams">
+        <div class="team">${safe(m.home_team)}</div>
+        <div class="score">${safe(m.predicted_score || "—")}</div>
+        <div class="team">${safe(m.away_team)}</div>
+      </div>
+      <div class="probs">
+        <div class="prob"><span>1 · Ev sahibi</span><strong>${pct(p["1"])}</strong></div>
+        <div class="prob"><span>X · Beraberlik</span><strong>${pct(p.X)}</strong></div>
+        <div class="prob"><span>2 · Deplasman</span><strong>${pct(p["2"])}</strong></div>
+      </div>
+      <button class="more" aria-expanded="false" aria-controls="${id}"
+        onclick="toggleDetails('${id}',this)">Maç detaylarını göster</button>
+      <div class="details" id="${id}">
+        <div class="detailgrid">
+          <div class="detail"><span>Ev sahibi beklenen gol</span><strong>${Number(m.expected_home_goals).toFixed(2)}</strong></div>
+          <div class="detail"><span>Deplasman beklenen gol</span><strong>${Number(m.expected_away_goals).toFixed(2)}</strong></div>
+          <div class="detail"><span>Üst 2,5 gol</span><strong>${pct(m.over_2_5_probability)}</strong></div>
+          <div class="detail"><span>Alt 2,5 gol</span><strong>${pct(m.under_2_5_probability)}</strong></div>
+        </div>
+      </div>
+    </article>`;
+  }).join("");
+}
+function toggleDetails(id,button) {
+  const el = document.getElementById(id);
+  const open = el.classList.toggle("open");
+  button.textContent = open ? "Detayları gizle" : "Maç detaylarını göster";
+  button.setAttribute("aria-expanded",String(open));
+}
+["league","search","date","sort"].forEach(id => $(id).addEventListener("input",render));
+
+fetch("/api/predictions")
+  .then(response => {
+    if (!response.ok) throw new Error("HTTP " + response.status);
+    return response.json();
+  })
+  .then(data => {
+    allMatches = data.predictions || [];
+    $("total").textContent = allMatches.length.toLocaleString("tr-TR");
+    render();
+  })
+  .catch(() => {
+    $("matches").innerHTML =
+      '<div class="empty">Katalog yüklenemedi. Yerel sunucunun çalıştığını kontrol edin.</div>';
+    $("count").textContent = "Bağlantı hatası";
+  });
+</script>
+</body>
+</html>

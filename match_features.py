@@ -1,11 +1,11 @@
 """Yalnızca geçmiş maçlardan takım performans özellikleri üretir."""
 
-from collections import defaultdict
+from collections import defaultdict, deque
 from datetime import date
 
 
 def build_match_features(matches):
-    """Her maç için maç öncesi takım istatistiklerini hesaplar."""
+    """Her maç için maç öncesi sezon ve son 5 maç istatistiklerini hesaplar."""
     ordered = []
 
     for match in matches:
@@ -42,6 +42,8 @@ def build_match_features(matches):
         "scored": 0,
         "conceded": 0,
     })
+    recent = defaultdict(lambda: deque(maxlen=5))
+
     features = []
     index = 0
 
@@ -52,10 +54,12 @@ def build_match_features(matches):
         while end < len(ordered) and ordered[end][0] == match_date:
             end += 1
 
-        # Aynı tarihteki tüm özellikler, o günün maçları eklenmeden hesaplanır.
+        # Günün bütün maçlarının özellikleri sonuçlar eklenmeden hesaplanır.
         for _, home, away, hg, ag in ordered[index:end]:
             home_stats = history[home]
             away_stats = history[away]
+            home_recent = list(recent[home])
+            away_recent = list(recent[away])
 
             features.append({
                 "date": match_date,
@@ -79,9 +83,28 @@ def build_match_features(matches):
                     away_stats["conceded"] / away_stats["matches"]
                     if away_stats["matches"] else 0.0
                 ),
+                "home_last5_goals_scored_avg": (
+                    sum(item[0] for item in home_recent) / len(home_recent)
+                    if home_recent else 0.0
+                ),
+                "home_last5_goals_conceded_avg": (
+                    sum(item[1] for item in home_recent) / len(home_recent)
+                    if home_recent else 0.0
+                ),
+                "away_last5_goals_scored_avg": (
+                    sum(item[0] for item in away_recent) / len(away_recent)
+                    if away_recent else 0.0
+                ),
+                "away_last5_goals_conceded_avg": (
+                    sum(item[1] for item in away_recent) / len(away_recent)
+                    if away_recent else 0.0
+                ),
+                "home_goals": hg,
+                "away_goals": ag,
+                "outcome": "1" if hg > ag else "X" if hg == ag else "2",
             })
 
-        # Günün tüm maçları özellikler üretildikten sonra geçmişe eklenir.
+        # Günün tüm maçları özellikler oluşturulduktan sonra geçmişe eklenir.
         for _, home, away, hg, ag in ordered[index:end]:
             history[home]["matches"] += 1
             history[home]["scored"] += hg
@@ -90,6 +113,9 @@ def build_match_features(matches):
             history[away]["matches"] += 1
             history[away]["scored"] += ag
             history[away]["conceded"] += hg
+
+            recent[home].append((hg, ag))
+            recent[away].append((ag, hg))
 
         index = end
 
