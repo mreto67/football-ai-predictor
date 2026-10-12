@@ -161,5 +161,23 @@ class HistoricalImporterTests(unittest.TestCase):
         self.assertIn("HATA: HTTPError", output.getvalue())
         self.assertIn("404", output.getvalue())
 
+
+    def test_duplicate_with_case_difference_is_detected(self):
+        first = {
+            "date": "2024-08-16",
+            "team1": "Team A",
+            "team2": "Team B",
+            "score": {"ft": [2, 1]},
+        }
+        second = {
+            "date": "2024-08-16",
+            "team1": "team a",
+            "team2": "team b",
+            "score": {"ft": [2, 1]},
+        }
+        report = audit_matches([first, second])
+        self.assertEqual(report["duplicates"], 1)
+        self.assertEqual(report["eligible"], 1)
+
 if __name__ == "__main__":
     unittest.main()
